@@ -2496,11 +2496,12 @@
             <mxPoint x="359.25" y="18447" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-498" value="修改信息后点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-479">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-498" value="修改信息后点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="239" y="18460" />
             </Array>
+            <mxPoint x="106" y="18460" as="sourcePoint" />
             <mxPoint x="345" y="18460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2522,12 +2523,13 @@
             <mxPoint x="362" y="18497" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-501" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-479">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-501" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="238" y="18511" />
             </Array>
             <mxPoint x="345" y="18511" as="sourcePoint" />
+            <mxPoint x="103" y="18511" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-502" value="选择房屋，点击“删除”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-479" target="fpQgEfCaEwrgiyN-PySb-480">
