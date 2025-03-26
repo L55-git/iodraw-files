@@ -622,7 +622,7 @@
             <mxPoint x="220" y="3669.9999999999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-98" value="删除楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-98" value="删除楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63" target="fpQgEfCaEwrgiyN-PySb-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="3690" />
@@ -630,9 +630,11 @@
             <mxPoint x="620" y="3690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-99" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-104">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-99" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-104" target="fpQgEfCaEwrgiyN-PySb-63">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="450" y="3730" />
+            </Array>
             <mxPoint x="600" y="3710" as="sourcePoint" />
             <mxPoint x="440" y="3710" as="targetPoint" />
           </mxGeometry>
