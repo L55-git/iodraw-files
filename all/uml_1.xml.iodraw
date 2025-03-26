@@ -1742,6 +1742,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-358" value="查询所有住户的详细电费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-344" target="fpQgEfCaEwrgiyN-PySb-351">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="482" y="13628" />
               <mxPoint x="535" y="13669" />
             </Array>
           </mxGeometry>
@@ -1749,7 +1750,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-359" value="返回电费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-350" target="fpQgEfCaEwrgiyN-PySb-344">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="536" y="13721" />
+              <mxPoint x="551" y="13651" />
             </Array>
           </mxGeometry>
         </mxCell>
