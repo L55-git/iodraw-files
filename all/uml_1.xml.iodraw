@@ -3360,7 +3360,7 @@
               <mxPoint x="553.5" y="23263" />
             </Array>
             <mxPoint x="428.9473684210525" y="23263" as="sourcePoint" />
-            <mxPoint x="659.0000000000002" y="23263" as="targetPoint" />
+            <mxPoint x="648" y="23263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-706" value="返回维修记录信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
