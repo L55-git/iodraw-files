@@ -2413,16 +2413,18 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-496" value="选择房屋，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-479" target="fpQgEfCaEwrgiyN-PySb-480">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="233" y="18896" />
+              <mxPoint x="256" y="18411" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-497" value="获取房屋当前信息，展示在编辑表单" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-480" target="fpQgEfCaEwrgiyN-PySb-480">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-497" value="获取房屋当前信息，展示在编辑表单" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="404" y="18948" />
-              <mxPoint x="404" y="18978" />
+              <mxPoint x="407.5" y="18418" />
+              <mxPoint x="407.5" y="18448" />
             </Array>
+            <mxPoint x="356" y="18418" as="sourcePoint" />
+            <mxPoint x="356" y="18448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-498" value="修改信息后点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-479" target="fpQgEfCaEwrgiyN-PySb-480">
