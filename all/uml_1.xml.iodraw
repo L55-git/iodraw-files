@@ -1015,6 +1015,9 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-252" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
           <mxGeometry x="70" y="460" width="10" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-253" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
+          <mxGeometry x="70" y="790" width="10" height="42" as="geometry" />
+        </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-254" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
           <mxGeometry x="70" y="1727" width="10" height="42" as="geometry" />
         </mxCell>
@@ -1023,18 +1026,6 @@
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-256" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
           <mxGeometry x="70" y="2351" width="10" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-281" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="fpQgEfCaEwrgiyN-PySb-249">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-31" y="480" />
-            </Array>
-            <mxPoint x="74.5" y="480" as="sourcePoint" />
-            <mxPoint x="-156" y="619" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-253" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
-          <mxGeometry x="70" y="1013" width="10" height="42" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-257" value="点击“查看业主信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-242">
           <mxGeometry relative="1" as="geometry">
@@ -1234,9 +1225,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-281" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="10230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-282" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-237">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="300" y="10250" />
               <mxPoint x="252" y="10867" />
             </Array>
           </mxGeometry>
