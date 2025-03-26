@@ -3522,11 +3522,13 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-739" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-737">
           <mxGeometry x="70" y="419" width="10" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-740" value="点击“公告列表”页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-735" target="fpQgEfCaEwrgiyN-PySb-736">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-740" value="点击“公告列表”页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="266" y="24511" />
             </Array>
+            <mxPoint x="108" y="24511" as="sourcePoint" />
+            <mxPoint x="409" y="24511" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-741" value="查询所有已发布的公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-738">
@@ -3545,11 +3547,12 @@
             <mxPoint x="426" y="24615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-743" value="展示公告列表 (标题, 内容, 发布时间)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-736" target="fpQgEfCaEwrgiyN-PySb-735">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-743" value="展示公告列表 (标题, 内容, 发布时间)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-736">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="269" y="24667" />
             </Array>
+            <mxPoint x="108" y="24667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-744" value="在查询框中输入公告标题关键字" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-735">
