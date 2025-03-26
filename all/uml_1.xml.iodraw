@@ -2392,21 +2392,21 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-493" value="发送添加请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-480" target="fpQgEfCaEwrgiyN-PySb-481">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="477" y="18740" />
+              <mxPoint x="458" y="18353" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-494" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-481" target="fpQgEfCaEwrgiyN-PySb-480">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="18792" />
+              <mxPoint x="470" y="18372" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-495" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-480" target="fpQgEfCaEwrgiyN-PySb-479">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="236" y="18844" />
+              <mxPoint x="264" y="18386" />
             </Array>
           </mxGeometry>
         </mxCell>
