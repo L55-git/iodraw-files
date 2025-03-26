@@ -322,7 +322,7 @@
           <mxGeometry x="70" y="107" width="10" height="73" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-60" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-58">
-          <mxGeometry x="70" y="200" width="10" height="146" as="geometry" />
+          <mxGeometry x="70" y="200" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-61" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-58">
           <mxGeometry x="70" y="523" width="10" height="322" as="geometry" />
@@ -404,6 +404,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-77" value="返回筛选结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-64" target="fpQgEfCaEwrgiyN-PySb-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="520" y="3170" />
               <mxPoint x="560" y="3180" />
               <mxPoint x="545" y="3339" />
             </Array>
