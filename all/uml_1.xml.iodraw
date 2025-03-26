@@ -349,6 +349,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-21" value="查询筛选楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-5" target="fpQgEfCaEwrgiyN-PySb-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="460" y="1440" />
               <mxPoint x="464" y="1467" />
             </Array>
           </mxGeometry>
