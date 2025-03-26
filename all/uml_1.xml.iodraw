@@ -734,6 +734,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-155" value="点击“新增”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-133" target="fpQgEfCaEwrgiyN-PySb-137">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="270" y="6530" />
               <mxPoint x="227" y="6723" />
             </Array>
           </mxGeometry>
@@ -741,6 +742,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-156" value="弹出表单，填写单元信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-137" target="fpQgEfCaEwrgiyN-PySb-133">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="250" y="6550" />
               <mxPoint x="228" y="6775" />
             </Array>
           </mxGeometry>
