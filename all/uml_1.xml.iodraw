@@ -1921,7 +1921,6 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-381" value="选择记录并点击“确认缴费”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-348">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="287" y="14224" />
               <mxPoint x="166" y="14213" />
               <mxPoint x="256" y="14925" />
             </Array>
