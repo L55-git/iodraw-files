@@ -1184,6 +1184,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-274" value="获取业主当前信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-249">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="452" y="9825" />
               <mxPoint x="510" y="10020" />
             </Array>
           </mxGeometry>
