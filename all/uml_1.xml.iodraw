@@ -1363,7 +1363,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-296" value="选择业主，点击“删除”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-240" target="fpQgEfCaEwrgiyN-PySb-248">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="10850" />
+              <mxPoint x="298" y="10290" />
               <mxPoint x="251" y="11595" />
             </Array>
           </mxGeometry>
