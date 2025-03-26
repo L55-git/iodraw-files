@@ -2202,7 +2202,7 @@
             <mxPoint x="104" y="16950" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-444" value="查询所有维修报修" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-434" target="fpQgEfCaEwrgiyN-PySb-439">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-444" value="查询所有维修" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-434" target="fpQgEfCaEwrgiyN-PySb-439">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="461" y="16962" />
@@ -2625,7 +2625,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-547" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
-          <mxGeometry x="90" y="17039" width="10" height="42" as="geometry" />
+          <mxGeometry x="90" y="17039" width="10" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
