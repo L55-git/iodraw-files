@@ -989,7 +989,7 @@
           <mxGeometry x="70" y="163" width="10" height="56" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-244" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Verdana;" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
-          <mxGeometry x="70" y="310" width="10" height="240" as="geometry" />
+          <mxGeometry x="70" y="234" width="10" height="161" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-245" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Verdana;" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
           <mxGeometry x="70" y="580" width="10" height="290" as="geometry" />
@@ -1176,6 +1176,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-273" value="选择业主，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-237" target="fpQgEfCaEwrgiyN-PySb-245">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="181" y="9812" />
               <mxPoint x="280" y="9990" />
             </Array>
           </mxGeometry>
