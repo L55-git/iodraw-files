@@ -3566,18 +3566,20 @@
             <mxPoint x="408" y="24771" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-746" value="筛选查询 (标题关键字)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-736" target="fpQgEfCaEwrgiyN-PySb-739">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-746" value="筛选查询 (标题关键字)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-739">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="559" y="24823" />
             </Array>
+            <mxPoint x="434" y="24823" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-747" value="返回筛选后的公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-739" target="fpQgEfCaEwrgiyN-PySb-736">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-747" value="返回筛选后的公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-739">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="24875" />
             </Array>
+            <mxPoint x="433" y="24875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-748" value="展示筛选后的公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
