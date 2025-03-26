@@ -2655,6 +2655,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-556" value="弹出表单，填写公告标题和内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553" target="fpQgEfCaEwrgiyN-PySb-552">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="312" y="19683" />
               <mxPoint x="262" y="19731" />
             </Array>
           </mxGeometry>
@@ -2662,6 +2663,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-557" value="填写完毕，点击“确认”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-552" target="fpQgEfCaEwrgiyN-PySb-553">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="305" y="19705" />
               <mxPoint x="259" y="19783" />
             </Array>
           </mxGeometry>
