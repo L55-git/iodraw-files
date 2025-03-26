@@ -3048,13 +3048,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-619" value="弹出表单，供业主填写反馈标题和详细内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-619" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="21297" />
+              <mxPoint x="281" y="21474" />
             </Array>
-            <mxPoint x="479" y="21297" as="sourcePoint" />
-            <mxPoint x="104" y="21297" as="targetPoint" />
+            <mxPoint x="470" y="21474" as="sourcePoint" />
+            <mxPoint x="95" y="21474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
