@@ -287,9 +287,9 @@
           <mxGeometry x="60" y="490" width="10" height="322" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-27" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="fpQgEfCaEwrgiyN-PySb-3">
-          <mxGeometry x="0.0491" y="-2" relative="1" as="geometry">
+          <mxGeometry x="0.1518" y="2" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="600" />
+              <mxPoint x="120" y="610" />
               <mxPoint x="127" y="681.5" />
             </Array>
             <mxPoint x="70" y="610" as="sourcePoint" />
