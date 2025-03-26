@@ -1523,17 +1523,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-323" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-303" target="fpQgEfCaEwrgiyN-PySb-302">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-323" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="321" y="12309" />
-              <mxPoint x="268" y="12763" />
+              <mxPoint x="321.5" y="12304" />
+              <mxPoint x="268.5" y="12758" />
             </Array>
+            <mxPoint x="417" y="12304" as="sourcePoint" />
+            <mxPoint x="94" y="12304" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-324" value="选择水费记录，点击“确认缴费”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-302" target="fpQgEfCaEwrgiyN-PySb-303">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="305" y="12336" />
               <mxPoint x="265" y="12815" />
             </Array>
           </mxGeometry>
