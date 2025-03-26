@@ -2905,8 +2905,10 @@
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-597" value="点击“我的反馈”页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="104" y="21008" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="291" y="21004" />
+            </Array>
+            <mxPoint x="106" y="21004" as="sourcePoint" />
             <mxPoint x="456" y="21004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -3098,6 +3100,9 @@
             <mxPoint x="441" y="21578.29" as="sourcePoint" />
             <mxPoint x="151" y="21578.29" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-631" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
+          <mxGeometry x="99" y="21000" width="10" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
