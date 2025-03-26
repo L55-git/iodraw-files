@@ -3215,6 +3215,15 @@
             <mxPoint x="806" y="22488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-658" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="632" y="21548" />
+            </Array>
+            <mxPoint x="777" y="21548" as="sourcePoint" />
+            <mxPoint x="485" y="21548" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
