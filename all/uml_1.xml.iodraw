@@ -3109,7 +3109,7 @@
               <mxPoint x="337" y="21492" />
             </Array>
             <mxPoint x="101" y="21492" as="sourcePoint" />
-            <mxPoint x="471" y="21492" as="targetPoint" />
+            <mxPoint x="455" y="21492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-621" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
@@ -3121,12 +3121,12 @@
             <mxPoint x="765" y="21513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-622" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-596">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-622" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="622" y="21538" />
             </Array>
-            <mxPoint x="755" y="21538" as="sourcePoint" />
+            <mxPoint x="767" y="21538" as="sourcePoint" />
             <mxPoint x="475" y="21538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
