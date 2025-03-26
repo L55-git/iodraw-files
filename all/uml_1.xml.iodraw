@@ -1019,7 +1019,7 @@
           <mxGeometry x="70" y="524" width="10" height="42" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-255" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Verdana;" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
-          <mxGeometry x="70" y="1300" width="10" height="42" as="geometry" />
+          <mxGeometry x="67" y="799" width="10" height="42" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-256" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Verdana;" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
           <mxGeometry x="70" y="1540" width="10" height="42" as="geometry" />
@@ -1354,6 +1354,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-295" value="提示退房成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-247" target="fpQgEfCaEwrgiyN-PySb-239">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="288" y="10249" />
               <mxPoint x="210" y="10770" />
             </Array>
           </mxGeometry>
