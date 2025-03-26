@@ -201,6 +201,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-34" value="展示编辑表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-7" target="fpQgEfCaEwrgiyN-PySb-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="310" y="1680" />
               <mxPoint x="246" y="2173" />
             </Array>
           </mxGeometry>
