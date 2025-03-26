@@ -1055,6 +1055,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-260" value="展示业主信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-242">
           <mxGeometry x="-0.0034" relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="273" y="9539" />
               <mxPoint x="290" y="9560" />
               <mxPoint x="252" y="9663" />
             </Array>
