@@ -2988,20 +2988,24 @@
             <mxPoint x="472.9958823529411" y="21170.999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-605" value="发送更新请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-595" target="fpQgEfCaEwrgiyN-PySb-596">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-605" value="发送更新请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="569" y="21193" />
               <mxPoint x="633" y="21450" />
             </Array>
+            <mxPoint x="477" y="21193" as="sourcePoint" />
+            <mxPoint x="763" y="21193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-606" value="更新反馈信息，并返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-596" target="fpQgEfCaEwrgiyN-PySb-595">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-606" value="更新反馈信息，并返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="582" y="21215" />
               <mxPoint x="636" y="21502" />
             </Array>
+            <mxPoint x="765" y="21215" as="sourcePoint" />
+            <mxPoint x="482" y="21215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-607" value="提示业主更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
