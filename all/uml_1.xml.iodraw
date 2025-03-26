@@ -3218,10 +3218,10 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-658" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="632" y="21548" />
+              <mxPoint x="487" y="22526" />
             </Array>
-            <mxPoint x="777" y="21548" as="sourcePoint" />
-            <mxPoint x="485" y="21548" as="targetPoint" />
+            <mxPoint x="803" y="22526" as="sourcePoint" />
+            <mxPoint x="340" y="22526" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
