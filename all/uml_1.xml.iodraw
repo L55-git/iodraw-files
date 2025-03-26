@@ -286,14 +286,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-6" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-3">
           <mxGeometry x="70" y="300" width="10" height="322" as="geometry" />
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-27" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="fpQgEfCaEwrgiyN-PySb-3">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-27" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="fpQgEfCaEwrgiyN-PySb-3" target="fpQgEfCaEwrgiyN-PySb-6">
           <mxGeometry x="0.148" y="12" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="410" />
-              <mxPoint x="120" y="470" />
+              <mxPoint x="120" y="430" />
+              <mxPoint x="110" y="470" />
             </Array>
-            <mxPoint x="80" y="420" as="sourcePoint" />
-            <mxPoint x="87" y="491.5" as="targetPoint" />
+            <mxPoint x="70" y="420" as="sourcePoint" />
+            <mxPoint x="77" y="491.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
