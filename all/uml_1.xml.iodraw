@@ -489,6 +489,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-86" value="选择楼栋，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-56" target="fpQgEfCaEwrgiyN-PySb-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="350" y="3400" />
               <mxPoint x="325" y="3837" />
             </Array>
           </mxGeometry>
