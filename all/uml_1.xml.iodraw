@@ -1241,6 +1241,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-280" value="发送更新请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-253">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="441" y="9932" />
               <mxPoint x="450" y="10190" />
               <mxPoint x="511" y="10763" />
             </Array>
