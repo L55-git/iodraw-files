@@ -1243,14 +1243,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-283" value="选择业主，点击“绑定房屋”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-238" target="fpQgEfCaEwrgiyN-PySb-246">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="251" y="10919" />
+              <mxPoint x="290" y="10310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-284" value="弹出选择房屋界面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-246" target="fpQgEfCaEwrgiyN-PySb-238">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="252" y="10971" />
+              <mxPoint x="270" y="10350" />
             </Array>
           </mxGeometry>
         </mxCell>
