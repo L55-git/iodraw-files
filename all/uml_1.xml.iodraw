@@ -3471,7 +3471,7 @@
               <mxPoint x="556.5" y="23620" />
             </Array>
             <mxPoint x="659" y="23620" as="sourcePoint" />
-            <mxPoint x="438" y="23623" as="targetPoint" />
+            <mxPoint x="438" y="23620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-718" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
