@@ -1140,6 +1140,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-270" value="发送添加请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-244" target="fpQgEfCaEwrgiyN-PySb-252">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="450" y="9870" />
               <mxPoint x="511" y="10213" />
             </Array>
           </mxGeometry>
@@ -1147,6 +1148,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-271" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-244">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="470" y="9900" />
               <mxPoint x="512" y="10265" />
             </Array>
           </mxGeometry>
