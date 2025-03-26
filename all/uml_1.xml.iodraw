@@ -1544,7 +1544,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-325" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-303" target="fpQgEfCaEwrgiyN-PySb-302">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="268" y="12867" />
+              <mxPoint x="309" y="12368" />
             </Array>
           </mxGeometry>
         </mxCell>
