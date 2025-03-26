@@ -2074,6 +2074,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-409" value="查询所有反馈信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-399" target="fpQgEfCaEwrgiyN-PySb-404">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="515" y="15742" />
               <mxPoint x="543" y="15779" />
             </Array>
           </mxGeometry>
@@ -2087,7 +2088,9 @@
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-411" value="展示反馈信息表格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-399" target="fpQgEfCaEwrgiyN-PySb-543">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="262" y="15847" />
+            </Array>
             <mxPoint x="106" y="15883" as="targetPoint" />
           </mxGeometry>
         </mxCell>
