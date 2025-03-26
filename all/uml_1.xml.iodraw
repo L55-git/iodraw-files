@@ -401,18 +401,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-77" value="返回筛选结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-64" target="fpQgEfCaEwrgiyN-PySb-60">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-77" value="返回筛选结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-66" target="fpQgEfCaEwrgiyN-PySb-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="3170" />
               <mxPoint x="560" y="3180" />
               <mxPoint x="545" y="3339" />
             </Array>
+            <mxPoint x="620" y="3170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-78" value="展示筛选后的楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-58" target="fpQgEfCaEwrgiyN-PySb-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="390" y="3180" />
               <mxPoint x="350" y="3200" />
               <mxPoint x="318" y="3391" />
             </Array>
