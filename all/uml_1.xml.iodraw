@@ -3169,32 +3169,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-641" value="查询该业主的水费信息" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=none;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="925" y="22438" as="sourcePoint" />
-            <mxPoint x="1392.5" y="22438" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-642" value="返回水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
-          <mxGeometry x="0.0016" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1098.75" y="22529" />
-            </Array>
-            <mxPoint x="1445.25" y="22529" as="sourcePoint" />
-            <mxPoint x="966" y="22529" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-643" value="展示水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1272.75" y="22647.75" />
-            </Array>
-            <mxPoint x="1382.2499999999998" y="22647.75" as="sourcePoint" />
-            <mxPoint x="1142" y="22647.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-644" value="&quot;我的电费模块&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="509" y="22281" width="150" height="636" as="geometry" />
         </mxCell>
@@ -3245,7 +3219,7 @@
             <mxPoint x="566" y="22625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-689" value="返回电费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-688">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-689" value="展示电费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-688">
           <mxGeometry x="-0.0011" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="247" y="22696" />
