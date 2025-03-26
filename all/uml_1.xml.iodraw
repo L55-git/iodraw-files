@@ -1155,18 +1155,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-271" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-244">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-271" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-244">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="446" y="9771" />
               <mxPoint x="470" y="9900" />
               <mxPoint x="512" y="10265" />
             </Array>
+            <mxPoint x="608" y="9771" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-272" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-244" target="fpQgEfCaEwrgiyN-PySb-236">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="296" y="9780" />
               <mxPoint x="230" y="9940" />
             </Array>
           </mxGeometry>
