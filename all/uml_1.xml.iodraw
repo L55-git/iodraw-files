@@ -633,7 +633,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="600" y="3710" as="sourcePoint" />
-            <mxPoint x="432.2500000000002" y="3710" as="targetPoint" />
+            <mxPoint x="440" y="3710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-100" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63">
