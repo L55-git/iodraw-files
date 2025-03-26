@@ -3547,19 +3547,21 @@
             <mxPoint x="426" y="24615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-743" value="展示公告列表 (标题, 内容, 发布时间)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-736">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-743" value="展示公告列表 (标题, 内容, 发布时间)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="269" y="24667" />
             </Array>
+            <mxPoint x="401" y="24667" as="sourcePoint" />
             <mxPoint x="108" y="24667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-744" value="在查询框中输入公告标题关键字" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-735">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-744" value="在查询框中输入公告标题关键字" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="266" y="24719" />
             </Array>
+            <mxPoint x="113" y="24719" as="sourcePoint" />
             <mxPoint x="412" y="24719" as="targetPoint" />
           </mxGeometry>
         </mxCell>
