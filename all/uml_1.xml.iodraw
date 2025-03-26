@@ -1104,6 +1104,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-265" value="点击“新增”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-236" target="fpQgEfCaEwrgiyN-PySb-244">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="307" y="9640" />
               <mxPoint x="290" y="9720" />
               <mxPoint x="251" y="9923" />
             </Array>
@@ -1112,6 +1113,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-266" value="弹出表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-244" target="fpQgEfCaEwrgiyN-PySb-236">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="241" y="9658" />
               <mxPoint x="300" y="9750" />
               <mxPoint x="252" y="9975" />
             </Array>
