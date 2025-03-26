@@ -3016,14 +3016,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-614" value="提示业主申请成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-595" target="fpQgEfCaEwrgiyN-PySb-594">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="294" y="21948" />
+              <mxPoint x="328" y="21419" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-615" value="点击“我的反馈”页面中“历史反馈”选项" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-594" target="fpQgEfCaEwrgiyN-PySb-595">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="291" y="22000" />
+              <mxPoint x="298" y="21447" />
             </Array>
           </mxGeometry>
         </mxCell>
