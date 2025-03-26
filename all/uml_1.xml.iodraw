@@ -1192,6 +1192,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-275" value="返回业主当前信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-245">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="454" y="9846" />
               <mxPoint x="500" y="10050" />
               <mxPoint x="514" y="10473" />
             </Array>
@@ -1200,6 +1201,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-276" value="展示编辑表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-237">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="346" y="9858" />
               <mxPoint x="310" y="10070" />
               <mxPoint x="252" y="10525" />
             </Array>
@@ -1208,6 +1210,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-277" value="修改信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-237" target="fpQgEfCaEwrgiyN-PySb-245">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="314" y="9872" />
               <mxPoint x="330" y="10100" />
               <mxPoint x="249" y="10577" />
             </Array>
