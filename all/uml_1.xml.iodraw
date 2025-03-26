@@ -1918,7 +1918,7 @@
             <mxPoint x="105" y="14168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-381" value="选择记录并点击“确认缴费”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-348">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-381" value="选择记录并点击“确认缴费”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-341" target="fpQgEfCaEwrgiyN-PySb-348">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="166" y="14213" />
@@ -1971,6 +1971,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-387" value="选择记录并点击“删除”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-336" target="fpQgEfCaEwrgiyN-PySb-349">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="181" y="14377" />
               <mxPoint x="265" y="14486" />
               <mxPoint x="258" y="15237" />
             </Array>
