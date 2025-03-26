@@ -3314,7 +3314,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-703" value="提示申请提交成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-695" target="fpQgEfCaEwrgiyN-PySb-694">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="274" y="23438" />
+              <mxPoint x="260" y="23202" />
             </Array>
           </mxGeometry>
         </mxCell>
