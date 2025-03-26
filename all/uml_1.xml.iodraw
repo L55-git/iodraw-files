@@ -2442,11 +2442,11 @@
             <mxPoint x="103" y="18320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-492" value="填写房屋信息并点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-480">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-492" value="填写房屋信息并点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="106" y="18338" as="sourcePoint" />
-            <mxPoint x="293" y="18338" as="targetPoint" />
+            <mxPoint x="100.5" y="18338" as="sourcePoint" />
+            <mxPoint x="347" y="18337.793103448275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-493" value="发送添加请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-480" target="fpQgEfCaEwrgiyN-PySb-481">
@@ -2480,11 +2480,11 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-497" value="获取房屋当前信息，展示在编辑表单" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407.5" y="18418" />
-              <mxPoint x="407.5" y="18448" />
+              <mxPoint x="410.75" y="18417" />
+              <mxPoint x="410.75" y="18447" />
             </Array>
-            <mxPoint x="356" y="18418" as="sourcePoint" />
-            <mxPoint x="356" y="18448" as="targetPoint" />
+            <mxPoint x="359.25" y="18417" as="sourcePoint" />
+            <mxPoint x="359.25" y="18447" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-498" value="修改信息后点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-479" target="fpQgEfCaEwrgiyN-PySb-480">
