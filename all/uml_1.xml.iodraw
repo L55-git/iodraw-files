@@ -3166,7 +3166,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-643" value="展示水费信息(清晰格式)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-638" target="fpQgEfCaEwrgiyN-PySb-637">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-643" value="展示水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-638" target="fpQgEfCaEwrgiyN-PySb-637">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="225" y="22544" />
