@@ -20,7 +20,7 @@
           <mxGeometry x="70" y="210" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-7" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-3">
-          <mxGeometry x="70" y="520" width="10" height="406" as="geometry" />
+          <mxGeometry x="70" y="520" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-8" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-3">
           <mxGeometry x="70" y="1415" width="10" height="200" as="geometry" />
@@ -181,12 +181,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-32" value="获取楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-7" target="fpQgEfCaEwrgiyN-PySb-9">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-32" value="获取楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-7">
           <mxGeometry x="-0.6185" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="1660" />
               <mxPoint x="464" y="2069" />
             </Array>
+            <mxPoint x="720" y="1660" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -275,7 +276,7 @@
               <mxPoint x="465" y="2753" />
             </Array>
             <mxPoint x="720" y="1700" as="sourcePoint" />
-            <mxPoint x="414.5" y="1700" as="targetPoint" />
+            <mxPoint x="420" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-45" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-3" target="fpQgEfCaEwrgiyN-PySb-1">
