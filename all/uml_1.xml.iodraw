@@ -1019,7 +1019,7 @@
           <mxGeometry x="70" y="790" width="10" height="42" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-254" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
-          <mxGeometry x="70" y="1727" width="10" height="42" as="geometry" />
+          <mxGeometry x="70" y="1060" width="10" height="42" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-255" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
           <mxGeometry x="70" y="2039" width="10" height="42" as="geometry" />
@@ -1285,6 +1285,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-289" value="提示绑定成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-246" target="fpQgEfCaEwrgiyN-PySb-238">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="260" y="10540" />
               <mxPoint x="252" y="11231" />
             </Array>
           </mxGeometry>
