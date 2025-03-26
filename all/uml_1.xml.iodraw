@@ -2845,25 +2845,28 @@
             <mxPoint x="393" y="20045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-574" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553" target="fpQgEfCaEwrgiyN-PySb-554">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-574" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-554">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="504" y="20060" />
             </Array>
+            <mxPoint x="419" y="20063" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-575" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-554" target="fpQgEfCaEwrgiyN-PySb-553">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-575" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-554">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="541" y="20083" />
             </Array>
+            <mxPoint x="417" y="20083" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-576" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-576" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="262" y="20098" />
             </Array>
+            <mxPoint x="394" y="20098" as="sourcePoint" />
             <mxPoint x="104" y="20098" as="targetPoint" />
           </mxGeometry>
         </mxCell>
