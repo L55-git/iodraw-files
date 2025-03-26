@@ -3045,6 +3045,15 @@
             <mxPoint x="471" y="21492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-621" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="514" y="20070" />
+            </Array>
+            <mxPoint x="429" y="20073" as="sourcePoint" />
+            <mxPoint x="680" y="20070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
