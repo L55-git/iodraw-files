@@ -598,8 +598,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-98" value="删除楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63" target="fpQgEfCaEwrgiyN-PySb-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="3760" />
-              <mxPoint x="544" y="4491" />
+              <mxPoint x="470" y="3770" />
             </Array>
           </mxGeometry>
         </mxCell>
