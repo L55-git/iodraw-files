@@ -493,7 +493,7 @@
             <mxPoint x="438" y="3350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-85" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-61" target="fpQgEfCaEwrgiyN-PySb-56">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-85" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="300" y="3360" />
@@ -501,7 +501,7 @@
               <mxPoint x="323" y="3400" />
             </Array>
             <mxPoint x="420" y="3400" as="sourcePoint" />
-            <mxPoint x="175" y="3400" as="targetPoint" />
+            <mxPoint x="180" y="3360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-86" value="选择楼栋，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-56" target="fpQgEfCaEwrgiyN-PySb-62">
@@ -2194,6 +2194,9 @@
               <mxPoint x="238" y="17935" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-466" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
+          <mxGeometry x="468" y="3067" width="10" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
