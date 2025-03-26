@@ -1412,6 +1412,9 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-530" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-302">
           <mxGeometry x="70" y="88" width="10" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-531" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-302">
+          <mxGeometry x="70" y="166" width="10" height="64" as="geometry" />
+        </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-303" value="水费管理模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="342" y="11980" width="150" height="1512" as="geometry" />
         </mxCell>
@@ -2625,8 +2628,8 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-525" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
           <mxGeometry x="410" y="12148" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-531" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
-          <mxGeometry x="753" y="12152" width="10" height="40" as="geometry" />
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-532" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
+          <mxGeometry x="763" y="12162" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
