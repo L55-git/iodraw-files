@@ -1419,7 +1419,7 @@
           <mxGeometry x="70" y="102" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-306" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-304">
-          <mxGeometry x="70" y="367" width="10" height="62" as="geometry" />
+          <mxGeometry x="70" y="172" width="10" height="45" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-307" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-304">
           <mxGeometry x="70" y="679" width="10" height="62" as="geometry" />
@@ -1519,7 +1519,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-322" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-307" target="fpQgEfCaEwrgiyN-PySb-303">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="562" y="12711" />
+              <mxPoint x="519" y="12287" />
             </Array>
           </mxGeometry>
         </mxCell>
