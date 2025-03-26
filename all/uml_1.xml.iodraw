@@ -1749,7 +1749,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-359" value="返回电费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-350" target="fpQgEfCaEwrgiyN-PySb-344">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="536" y="13721" />
+              <mxPoint x="536" y="13659" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2662,6 +2662,9 @@
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-525" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
           <mxGeometry x="410" y="12148" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-537" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
+          <mxGeometry x="100" y="13783" width="10" height="218" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
