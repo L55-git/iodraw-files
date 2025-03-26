@@ -2781,11 +2781,11 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-566" value="展示编辑表单，包含当前公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="401" y="19903" as="sourcePoint" />
-            <mxPoint x="108" y="19901" as="targetPoint" />
+            <mxPoint x="395" y="19908" as="sourcePoint" />
+            <mxPoint x="102" y="19906" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-567" value="修改信息后点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-567" value="修改信息后点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-552">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="272" y="19931" />
