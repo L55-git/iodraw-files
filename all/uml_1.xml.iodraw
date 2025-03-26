@@ -3148,7 +3148,7 @@
           <mxGeometry x="739" y="22281" width="150" height="368" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-640" value="点击“我的水费”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-637">
-          <mxGeometry x="-0.0445" y="49" relative="1" as="geometry">
+          <mxGeometry x="0.0064" relative="1" as="geometry">
             <mxPoint x="330" y="22465" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3177,7 +3177,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-644" value="&quot;我的电费模块&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="509" y="22281" width="150" height="368" as="geometry" />
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-647" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-647" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-637" target="fpQgEfCaEwrgiyN-PySb-638">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="22575" as="sourcePoint" />
             <mxPoint x="820" y="22525" as="targetPoint" />
