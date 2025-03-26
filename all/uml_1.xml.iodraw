@@ -2761,11 +2761,12 @@
             <mxPoint x="414" y="19835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-564" value="以列表形式展示公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-564" value="以列表形式展示公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="286" y="19853" />
             </Array>
+            <mxPoint x="395" y="19853" as="sourcePoint" />
             <mxPoint x="104" y="19853" as="targetPoint" />
           </mxGeometry>
         </mxCell>
