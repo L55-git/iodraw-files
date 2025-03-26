@@ -1441,28 +1441,28 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-311" value="查询请求: 获取所有水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-303" target="fpQgEfCaEwrgiyN-PySb-305">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="561" y="12139" />
+              <mxPoint x="561" y="12095" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-312" value="返回水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-305" target="fpQgEfCaEwrgiyN-PySb-303">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="562" y="12191" />
+              <mxPoint x="559" y="12115" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-313" value="以表格形式展示水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-303" target="fpQgEfCaEwrgiyN-PySb-302">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="268" y="12243" />
+              <mxPoint x="273" y="12127" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-314" value="输入筛选条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-302" target="fpQgEfCaEwrgiyN-PySb-303">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="265" y="12295" />
+              <mxPoint x="260" y="12154" />
             </Array>
           </mxGeometry>
         </mxCell>
