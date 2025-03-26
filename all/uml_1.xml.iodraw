@@ -3580,12 +3580,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-748" value="展示筛选后的公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-736" target="fpQgEfCaEwrgiyN-PySb-735">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-748" value="展示筛选后的公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="269" y="24927" />
             </Array>
-            <mxPoint x="402" y="24927" as="sourcePoint" />
+            <mxPoint x="409" y="24927" as="sourcePoint" />
+            <mxPoint x="100" y="24927" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
