@@ -289,8 +289,10 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-27" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="fpQgEfCaEwrgiyN-PySb-3">
           <mxGeometry x="0.1518" y="2" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="610" />
-              <mxPoint x="127" y="681.5" />
+              <mxPoint x="100" y="620" />
+              <mxPoint x="100" y="630" />
+              <mxPoint x="110" y="630" />
+              <mxPoint x="110" y="660" />
             </Array>
             <mxPoint x="70" y="610" as="sourcePoint" />
             <mxPoint x="77" y="681.5" as="targetPoint" />
