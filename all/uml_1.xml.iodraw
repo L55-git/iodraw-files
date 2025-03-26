@@ -1881,7 +1881,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-376" value="修改信息并点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-340" target="fpQgEfCaEwrgiyN-PySb-347">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="254" y="14635" />
+              <mxPoint x="287" y="14075" />
             </Array>
           </mxGeometry>
         </mxCell>
