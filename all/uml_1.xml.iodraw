@@ -3281,11 +3281,13 @@
             <mxPoint x="432.9957142857144" y="23105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-699" value="填写信息并点击“提交”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-694" target="fpQgEfCaEwrgiyN-PySb-695">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-699" value="填写信息并点击“提交”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="278" y="23117" />
             </Array>
+            <mxPoint x="100" y="23115" as="sourcePoint" />
+            <mxPoint x="420" y="23117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-700" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-695" target="fpQgEfCaEwrgiyN-PySb-695">
