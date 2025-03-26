@@ -1774,6 +1774,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-362" value="发送筛选查询请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-345" target="fpQgEfCaEwrgiyN-PySb-352">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="494" y="13745" />
               <mxPoint x="535" y="13877" />
             </Array>
           </mxGeometry>
@@ -1781,6 +1782,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-363" value="返回筛选结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-350" target="fpQgEfCaEwrgiyN-PySb-345">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="478" y="13768" />
               <mxPoint x="536" y="13929" />
             </Array>
           </mxGeometry>
@@ -1788,7 +1790,8 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-364" value="展示筛选后的电费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-345" target="fpQgEfCaEwrgiyN-PySb-338">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="252" y="13981" />
+              <mxPoint x="274" y="13783" />
+              <mxPoint x="274" y="13932" />
             </Array>
           </mxGeometry>
         </mxCell>
