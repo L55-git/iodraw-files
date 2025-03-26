@@ -610,6 +610,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-100" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-58" target="fpQgEfCaEwrgiyN-PySb-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="340" y="3870" />
               <mxPoint x="333" y="4595" />
             </Array>
           </mxGeometry>
