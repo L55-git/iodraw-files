@@ -3359,7 +3359,7 @@
             <Array as="points">
               <mxPoint x="553.5" y="23263" />
             </Array>
-            <mxPoint x="428.9473684210525" y="23263" as="sourcePoint" />
+            <mxPoint x="444" y="23263" as="sourcePoint" />
             <mxPoint x="648" y="23263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -3369,7 +3369,7 @@
               <mxPoint x="556.5" y="23293" />
             </Array>
             <mxPoint x="659.0000000000002" y="23293.000000000004" as="sourcePoint" />
-            <mxPoint x="428.9473684210525" y="23293.000000000004" as="targetPoint" />
+            <mxPoint x="440" y="23293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-707" value="展示维修记录列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
