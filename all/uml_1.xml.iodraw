@@ -3080,15 +3080,15 @@
               <mxPoint x="281" y="21474" />
             </Array>
             <mxPoint x="470" y="21474" as="sourcePoint" />
-            <mxPoint x="95" y="21474" as="targetPoint" />
+            <mxPoint x="104" y="21474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-620" value="确认删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-594">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-620" value="确认删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="337" y="21492" />
             </Array>
-            <mxPoint x="182" y="21492" as="sourcePoint" />
+            <mxPoint x="101" y="21492" as="sourcePoint" />
             <mxPoint x="471" y="21492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -3116,7 +3116,7 @@
               <mxPoint x="309" y="21578.29" />
             </Array>
             <mxPoint x="441" y="21578.29" as="sourcePoint" />
-            <mxPoint x="151" y="21578.29" as="targetPoint" />
+            <mxPoint x="109" y="21578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
