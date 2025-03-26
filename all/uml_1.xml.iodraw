@@ -2523,6 +2523,9 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-515" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
           <mxGeometry x="659" y="18248" width="10" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-516" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
+          <mxGeometry x="100" y="18229" width="10" height="57" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
