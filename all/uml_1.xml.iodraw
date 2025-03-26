@@ -2055,6 +2055,9 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-404" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-403">
           <mxGeometry x="70" y="114" width="10" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-405" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-403">
+          <mxGeometry x="70" y="204" width="10" height="42" as="geometry" />
+        </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-406" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-403">
           <mxGeometry x="70" y="679" width="10" height="32" as="geometry" />
         </mxCell>
@@ -2108,9 +2111,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-414" value="返回筛选后的反馈信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-405" target="fpQgEfCaEwrgiyN-PySb-400">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-414" value="返回筛选后的反馈信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-403" target="fpQgEfCaEwrgiyN-PySb-400">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="435" y="15855" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-415" value="展示筛选后的反馈信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-400" target="fpQgEfCaEwrgiyN-PySb-395">
@@ -2708,18 +2713,6 @@
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-342" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
           <mxGeometry x="88" y="14368" width="10" height="117" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-405" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
-          <mxGeometry x="643" y="15826" width="10" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-545" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-403" target="fpQgEfCaEwrgiyN-PySb-405">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="435" y="15855" />
-            </Array>
-            <mxPoint x="648" y="15855" as="sourcePoint" />
-            <mxPoint x="422" y="15855" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
