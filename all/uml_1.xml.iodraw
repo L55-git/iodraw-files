@@ -1290,19 +1290,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-290" value="选择业主，点击“退房”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-290" value="选择业主，点击“退房”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-239" target="fpQgEfCaEwrgiyN-PySb-247">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="241" y="10620" />
+              <mxPoint x="260" y="10620" />
             </Array>
-            <mxPoint x="90" y="10620" as="sourcePoint" />
-            <mxPoint x="370" y="10620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-291" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-247" target="fpQgEfCaEwrgiyN-PySb-239">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="252" y="11335" />
+              <mxPoint x="280" y="10650" />
             </Array>
           </mxGeometry>
         </mxCell>
