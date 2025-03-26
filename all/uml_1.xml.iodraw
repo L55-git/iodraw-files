@@ -1916,6 +1916,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-381" value="选择记录并点击“确认缴费”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-336" target="fpQgEfCaEwrgiyN-PySb-348">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="166" y="14213" />
               <mxPoint x="256" y="14925" />
             </Array>
           </mxGeometry>
@@ -1923,7 +1924,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-382" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-348" target="fpQgEfCaEwrgiyN-PySb-341">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="257" y="14977" />
+              <mxPoint x="233" y="14249" />
             </Array>
           </mxGeometry>
         </mxCell>
