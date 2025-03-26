@@ -2722,23 +2722,25 @@
               <mxPoint x="557" y="19749" />
             </Array>
             <mxPoint x="672" y="19749" as="sourcePoint" />
-            <mxPoint x="417" y="19751" as="targetPoint" />
+            <mxPoint x="418" y="19749" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-560" value="提示发布公告成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-560" value="提示发布公告成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="262" y="19767" />
             </Array>
+            <mxPoint x="396" y="19767" as="sourcePoint" />
             <mxPoint x="106" y="19767" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-561" value="点击“查看公告”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-553">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-561" value="点击“查看公告”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="266" y="19800" />
             </Array>
             <mxPoint x="104" y="19800" as="sourcePoint" />
+            <mxPoint x="393" y="19802" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-562" value="发送查询请求，获取所有公告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553" target="fpQgEfCaEwrgiyN-PySb-554">
