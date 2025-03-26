@@ -346,7 +346,7 @@
           <mxGeometry x="70" y="400" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-68" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-64">
-          <mxGeometry x="70" y="490" width="10" height="70" as="geometry" />
+          <mxGeometry x="70" y="490" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-69" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-64">
           <mxGeometry x="70" y="1259" width="10" height="-8" as="geometry" />
@@ -501,12 +501,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-88" value="返回楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;exitX=0.2;exitY=0.429;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-68" target="fpQgEfCaEwrgiyN-PySb-62">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-88" value="返回楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-68" target="fpQgEfCaEwrgiyN-PySb-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="3440" />
             </Array>
-            <mxPoint x="620" y="3440" as="sourcePoint" />
+            <mxPoint x="610" y="3440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-89" value="展示编辑表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-62" target="fpQgEfCaEwrgiyN-PySb-56">
