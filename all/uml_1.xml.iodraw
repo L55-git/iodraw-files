@@ -1685,10 +1685,7 @@
           <mxGeometry x="70" y="477" width="10" height="203" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-341" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-336">
-          <mxGeometry x="70" y="693" width="10" height="188" as="geometry" />
-        </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-342" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-336">
-          <mxGeometry x="70" y="967" width="10" height="178" as="geometry" />
+          <mxGeometry x="70" y="693" width="10" height="149" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-537" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-336">
           <mxGeometry x="70" y="92" width="10" height="109" as="geometry" />
@@ -1968,7 +1965,7 @@
             <mxPoint x="102" y="14338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-387" value="选择记录并点击“删除”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-336" target="fpQgEfCaEwrgiyN-PySb-349">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-387" value="选择记录并点击“删除”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-342" target="fpQgEfCaEwrgiyN-PySb-349">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="181" y="14377" />
@@ -1980,6 +1977,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-388" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-349" target="fpQgEfCaEwrgiyN-PySb-342">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="292" y="14395" />
               <mxPoint x="265" y="14519" />
               <mxPoint x="259" y="15289" />
             </Array>
@@ -2700,6 +2698,16 @@
             <Array as="points" />
             <mxPoint x="664" y="14157" as="sourcePoint" />
             <mxPoint x="385" y="14427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-342" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
+          <mxGeometry x="88" y="14368" width="10" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-542" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-336" target="fpQgEfCaEwrgiyN-PySb-342">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="95" y="14377" as="sourcePoint" />
+            <mxPoint x="385" y="14477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
