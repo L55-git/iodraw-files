@@ -3430,11 +3430,11 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-713" value="获取维修记录信息，展示在编辑表单" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="481" y="23485" />
-              <mxPoint x="481" y="23515" />
+              <mxPoint x="486.55" y="23483" />
+              <mxPoint x="486.55" y="23513" />
             </Array>
-            <mxPoint x="429.4473684210525" y="23485" as="sourcePoint" />
-            <mxPoint x="429.4473684210525" y="23515" as="targetPoint" />
+            <mxPoint x="434.9973684210525" y="23483" as="sourcePoint" />
+            <mxPoint x="434.9973684210525" y="23513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-714" value="修改信息并点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
