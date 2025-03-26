@@ -710,6 +710,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-152" value="筛选查询请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-136" target="fpQgEfCaEwrgiyN-PySb-142">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="370" y="6430" />
               <mxPoint x="468" y="6567" />
             </Array>
           </mxGeometry>
