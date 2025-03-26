@@ -1307,21 +1307,21 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-292" value="确认退房" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-239" target="fpQgEfCaEwrgiyN-PySb-247">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="249" y="11387" />
+              <mxPoint x="200" y="10690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-293" value="发送解除绑定请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-247" target="fpQgEfCaEwrgiyN-PySb-255">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="511" y="11439" />
+              <mxPoint x="490" y="10710" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-294" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-247">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="512" y="11491" />
+              <mxPoint x="450" y="10740" />
             </Array>
           </mxGeometry>
         </mxCell>
