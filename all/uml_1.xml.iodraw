@@ -2740,21 +2740,23 @@
               <mxPoint x="266" y="19800" />
             </Array>
             <mxPoint x="104" y="19800" as="sourcePoint" />
-            <mxPoint x="393" y="19802" as="targetPoint" />
+            <mxPoint x="397" y="19800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-562" value="发送查询请求，获取所有公告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553" target="fpQgEfCaEwrgiyN-PySb-554">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-562" value="发送查询请求，获取所有公告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-554">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="551" y="19816" />
             </Array>
+            <mxPoint x="414" y="19816" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-563" value="返回公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-554" target="fpQgEfCaEwrgiyN-PySb-553">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-563" value="返回公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-554">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="19835" />
             </Array>
+            <mxPoint x="414" y="19835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-564" value="以列表形式展示公告信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553">
