@@ -343,7 +343,7 @@
           <mxGeometry x="70" y="230" width="10" height="32" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-67" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-64">
-          <mxGeometry x="70" y="450" width="10" height="12" as="geometry" />
+          <mxGeometry x="70" y="420" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-68" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-64">
           <mxGeometry x="70" y="969" width="10" height="2" as="geometry" />
@@ -469,19 +469,20 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-84" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="545" y="3390" />
+              <mxPoint x="545" y="3370" />
             </Array>
-            <mxPoint x="632.5" y="3390" as="sourcePoint" />
-            <mxPoint x="438" y="3390" as="targetPoint" />
+            <mxPoint x="632.5" y="3370" as="sourcePoint" />
+            <mxPoint x="438" y="3370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-85" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-61">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-85" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-61" target="fpQgEfCaEwrgiyN-PySb-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="370" y="3380" />
               <mxPoint x="323" y="3400" />
             </Array>
             <mxPoint x="420" y="3400" as="sourcePoint" />
-            <mxPoint x="174.63043478260886" y="3400" as="targetPoint" />
+            <mxPoint x="175" y="3400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-86" value="选择楼栋，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-56" target="fpQgEfCaEwrgiyN-PySb-62">
