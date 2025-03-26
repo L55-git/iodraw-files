@@ -844,6 +844,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-169" value="选择单元，点击“删除”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-133" target="fpQgEfCaEwrgiyN-PySb-139">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="280" y="6870" />
               <mxPoint x="227" y="7451" />
             </Array>
           </mxGeometry>
@@ -851,6 +852,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-170" value="确认删除操作" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-139" target="fpQgEfCaEwrgiyN-PySb-133">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="270" y="6900" />
               <mxPoint x="228" y="7503" />
             </Array>
           </mxGeometry>
@@ -858,6 +860,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-171" value="确认删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-133" target="fpQgEfCaEwrgiyN-PySb-139">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="240" y="6930" />
               <mxPoint x="225" y="7555" />
             </Array>
           </mxGeometry>
