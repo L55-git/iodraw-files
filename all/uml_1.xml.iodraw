@@ -590,6 +590,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-97" value="点击确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-57" target="fpQgEfCaEwrgiyN-PySb-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="330" y="3730" />
               <mxPoint x="330" y="4439" />
             </Array>
           </mxGeometry>
@@ -597,6 +598,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-98" value="删除楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63" target="fpQgEfCaEwrgiyN-PySb-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="520" y="3760" />
               <mxPoint x="544" y="4491" />
             </Array>
           </mxGeometry>
