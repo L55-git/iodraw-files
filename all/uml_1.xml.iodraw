@@ -2460,11 +2460,12 @@
             <mxPoint x="573" y="18353" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-494" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-481">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-494" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="18372" />
             </Array>
+            <mxPoint x="574" y="18372" as="sourcePoint" />
             <mxPoint x="361" y="18372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2477,11 +2478,12 @@
             <mxPoint x="102" y="18386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-496" value="选择房屋，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-479" target="fpQgEfCaEwrgiyN-PySb-480">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-496" value="选择房屋，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-479">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="256" y="18411" />
             </Array>
+            <mxPoint x="346" y="18411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-497" value="获取房屋当前信息，展示在编辑表单" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
