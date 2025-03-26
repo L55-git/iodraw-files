@@ -3550,18 +3550,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-744" value="在查询框中输入公告标题关键字" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-735" target="fpQgEfCaEwrgiyN-PySb-736">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-744" value="在查询框中输入公告标题关键字" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-735">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="266" y="24719" />
             </Array>
+            <mxPoint x="412" y="24719" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-745" value="点击“查询”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-735" target="fpQgEfCaEwrgiyN-PySb-736">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-745" value="点击“查询”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-735">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="266" y="24771" />
             </Array>
+            <mxPoint x="408" y="24771" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-746" value="筛选查询 (标题关键字)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-736" target="fpQgEfCaEwrgiyN-PySb-739">
