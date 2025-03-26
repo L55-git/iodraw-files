@@ -394,7 +394,7 @@
               <mxPoint x="290" y="1460" />
               <mxPoint x="240" y="1440" />
             </Array>
-            <mxPoint x="79.5" y="1440" as="sourcePoint" />
+            <mxPoint x="80" y="1460" as="sourcePoint" />
             <mxPoint x="400" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -415,7 +415,7 @@
               <mxPoint x="240" y="1554" />
             </Array>
             <mxPoint x="80" y="1520" as="sourcePoint" />
-            <mxPoint x="410" y="1510" as="targetPoint" />
+            <mxPoint x="410" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-28" value="添加新楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-6" target="fpQgEfCaEwrgiyN-PySb-12">
