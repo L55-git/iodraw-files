@@ -548,20 +548,24 @@
             <mxPoint x="632.5000000000002" y="3530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-93" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-64" target="fpQgEfCaEwrgiyN-PySb-62">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-93" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="3660" />
-              <mxPoint x="545" y="4231" />
+              <mxPoint x="530" y="3560" />
+              <mxPoint x="545" y="4131" />
             </Array>
+            <mxPoint x="632.5000000000002" y="3560" as="sourcePoint" />
+            <mxPoint x="438" y="3560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-94" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-58" target="fpQgEfCaEwrgiyN-PySb-56">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-94" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="3680" />
-              <mxPoint x="328" y="4283" />
+              <mxPoint x="350" y="3570" />
+              <mxPoint x="328" y="4173" />
             </Array>
+            <mxPoint x="420" y="3570" as="sourcePoint" />
+            <mxPoint x="174.44736842105272" y="3570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-95" value="选择楼栋，点击“删除”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-56" target="fpQgEfCaEwrgiyN-PySb-63">
