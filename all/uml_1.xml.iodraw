@@ -3347,11 +3347,12 @@
             <mxPoint x="106" y="23202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-704" value="点击“维修管理”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-694">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-704" value="点击“维修管理”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="271" y="23240" />
             </Array>
+            <mxPoint x="105" y="23240" as="sourcePoint" />
             <mxPoint x="416" y="23240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
