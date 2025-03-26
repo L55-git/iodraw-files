@@ -1561,11 +1561,11 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-323" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="321.5" y="12304" />
-              <mxPoint x="268.5" y="12758" />
+              <mxPoint x="326.69" y="12304" />
+              <mxPoint x="273.69" y="12758" />
             </Array>
-            <mxPoint x="409" y="12304" as="sourcePoint" />
-            <mxPoint x="105" y="12306" as="targetPoint" />
+            <mxPoint x="414.19" y="12304" as="sourcePoint" />
+            <mxPoint x="100.00034482758605" y="12304" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-324" value="选择水费记录，点击“确认缴费”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-302" target="fpQgEfCaEwrgiyN-PySb-303">
