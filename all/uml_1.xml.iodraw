@@ -649,7 +649,7 @@
           <mxGeometry x="498" y="6200" width="150" height="1616" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-141" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-140">
-          <mxGeometry x="70" y="120" width="10" height="52" as="geometry" />
+          <mxGeometry x="70" y="104.5" width="10" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-142" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-140">
           <mxGeometry x="70" y="367" width="10" height="52" as="geometry" />
@@ -684,6 +684,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-149" value="返回单元信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-141" target="fpQgEfCaEwrgiyN-PySb-135">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="410" y="6340" />
               <mxPoint x="420" y="6360" />
               <mxPoint x="469" y="6411" />
             </Array>
@@ -692,6 +693,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-150" value="以表格形式展示单元信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-135" target="fpQgEfCaEwrgiyN-PySb-133">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="260" y="6350" />
               <mxPoint x="210" y="6380" />
               <mxPoint x="228" y="6463" />
             </Array>
