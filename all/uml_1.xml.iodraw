@@ -272,7 +272,7 @@
           <mxGeometry x="340" y="1120" width="150" height="1780" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-4" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-3">
-          <mxGeometry x="70" y="107" width="10" height="156" as="geometry" />
+          <mxGeometry x="70" y="107" width="10" height="83" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-5" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-3">
           <mxGeometry x="70" y="315" width="10" height="146" as="geometry" />
@@ -324,6 +324,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-18" value="返回所有楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-9" target="fpQgEfCaEwrgiyN-PySb-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="520" y="1290" />
               <mxPoint x="465" y="1311" />
             </Array>
           </mxGeometry>
