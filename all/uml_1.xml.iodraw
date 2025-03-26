@@ -2026,7 +2026,7 @@
           <mxGeometry x="70" y="187" width="10" height="69" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-396" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-393">
-          <mxGeometry x="75" y="575" width="10" height="208" as="geometry" />
+          <mxGeometry x="75" y="575" width="12" height="208" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-397" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-393">
           <mxGeometry x="80" y="887" width="10" height="198" as="geometry" />
@@ -2164,7 +2164,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-421" value="提示处理成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-401" target="fpQgEfCaEwrgiyN-PySb-396">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="16403" />
+              <mxPoint x="263" y="15982" />
             </Array>
           </mxGeometry>
         </mxCell>
