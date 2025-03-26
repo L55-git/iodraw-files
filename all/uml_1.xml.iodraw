@@ -1122,7 +1122,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-267" value="填写业主信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-236" target="fpQgEfCaEwrgiyN-PySb-244">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="303" y="9674" />
+              <mxPoint x="239" y="9681" />
               <mxPoint x="249" y="10027" />
             </Array>
           </mxGeometry>
@@ -1130,7 +1130,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-268" value="点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-236" target="fpQgEfCaEwrgiyN-PySb-244">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="9800" />
+              <mxPoint x="296" y="9698" />
               <mxPoint x="249" y="10079" />
             </Array>
           </mxGeometry>
