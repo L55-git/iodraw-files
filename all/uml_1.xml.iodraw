@@ -3205,13 +3205,13 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-655" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
           <mxGeometry x="809" y="22640.5" width="10" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-656" value="确认删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-656" value="确认删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-639">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="347" y="21502" />
+              <mxPoint x="576" y="22488" />
             </Array>
-            <mxPoint x="111" y="21502" as="sourcePoint" />
-            <mxPoint x="465" y="21502" as="targetPoint" />
+            <mxPoint x="340" y="22488" as="sourcePoint" />
+            <mxPoint x="694" y="22488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
