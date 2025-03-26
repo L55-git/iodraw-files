@@ -290,7 +290,7 @@
           <mxGeometry x="650" y="1120" width="150" height="1780" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-10" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-9">
-          <mxGeometry x="70" y="159" width="10" height="42" as="geometry" />
+          <mxGeometry x="70" y="106" width="10" height="42" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-11" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-9">
           <mxGeometry x="70" y="367" width="10" height="32" as="geometry" />
