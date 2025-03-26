@@ -3449,20 +3449,20 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-715" value="验证修改后的信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="481" y="23545" />
-              <mxPoint x="481" y="23575" />
+              <mxPoint x="486.55" y="23542" />
+              <mxPoint x="486.55" y="23572" />
             </Array>
-            <mxPoint x="429.4473684210525" y="23545" as="sourcePoint" />
-            <mxPoint x="429.4473684210525" y="23575" as="targetPoint" />
+            <mxPoint x="434.9973684210525" y="23542" as="sourcePoint" />
+            <mxPoint x="434.9973684210525" y="23572" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-716" value="更新维修记录请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="552.75" y="23591" />
+              <mxPoint x="557.75" y="23586" />
             </Array>
-            <mxPoint x="428.0000000000002" y="23591" as="sourcePoint" />
-            <mxPoint x="658.25" y="23591" as="targetPoint" />
+            <mxPoint x="433.0000000000002" y="23586" as="sourcePoint" />
+            <mxPoint x="653" y="23586" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-717" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
@@ -3471,7 +3471,7 @@
               <mxPoint x="556.5" y="23620" />
             </Array>
             <mxPoint x="659" y="23620" as="sourcePoint" />
-            <mxPoint x="428.7500000000002" y="23620" as="targetPoint" />
+            <mxPoint x="438" y="23623" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-718" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
