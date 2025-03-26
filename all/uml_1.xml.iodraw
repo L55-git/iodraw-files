@@ -1991,7 +1991,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-390" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-349">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-390" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-349" target="fpQgEfCaEwrgiyN-PySb-541">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="479" y="14425" />
@@ -2006,11 +2006,14 @@
             <mxPoint x="382" y="14449.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-392" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-343" target="fpQgEfCaEwrgiyN-PySb-336">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-392" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="283" y="14656" />
+              <mxPoint x="327.5" y="14378" />
+              <mxPoint x="288.5" y="14583" />
             </Array>
+            <mxPoint x="390" y="14483" as="sourcePoint" />
+            <mxPoint x="100" y="14483" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-393" value="管理人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
