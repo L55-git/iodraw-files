@@ -3390,19 +3390,23 @@
             <mxPoint x="93.94736842105272" y="23431.000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-712" value="选择记录并点击“编辑”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-694" target="fpQgEfCaEwrgiyN-PySb-695">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-712" value="选择记录并点击“编辑”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="271" y="23906" />
+              <mxPoint x="270.5" y="23469" />
             </Array>
+            <mxPoint x="93.94736842105272" y="23469" as="sourcePoint" />
+            <mxPoint x="428.0000000000002" y="23469" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-713" value="获取维修记录信息，展示在编辑表单" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-695" target="fpQgEfCaEwrgiyN-PySb-695">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-713" value="获取维修记录信息，展示在编辑表单" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="23958" />
-              <mxPoint x="480" y="23988" />
+              <mxPoint x="481" y="23485" />
+              <mxPoint x="481" y="23515" />
             </Array>
+            <mxPoint x="429.4473684210525" y="23485" as="sourcePoint" />
+            <mxPoint x="429.4473684210525" y="23515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-714" value="修改信息并点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-694" target="fpQgEfCaEwrgiyN-PySb-695">
