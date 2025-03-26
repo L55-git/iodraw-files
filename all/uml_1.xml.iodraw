@@ -317,6 +317,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-17" value="查询所有楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-4" target="fpQgEfCaEwrgiyN-PySb-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="640" y="1230" />
               <mxPoint x="464" y="1259" />
             </Array>
           </mxGeometry>
@@ -324,6 +325,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-18" value="返回所有楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-9" target="fpQgEfCaEwrgiyN-PySb-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="630" y="1260" />
               <mxPoint x="465" y="1311" />
             </Array>
           </mxGeometry>
