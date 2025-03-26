@@ -3409,11 +3409,13 @@
             <mxPoint x="429.4473684210525" y="23515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-714" value="修改信息并点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-694" target="fpQgEfCaEwrgiyN-PySb-695">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-714" value="修改信息并点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="271" y="24040" />
+              <mxPoint x="274.55" y="23535" />
             </Array>
+            <mxPoint x="97.99736842105271" y="23535" as="sourcePoint" />
+            <mxPoint x="432.05000000000024" y="23535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-715" value="验证修改后的信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-695" target="fpQgEfCaEwrgiyN-PySb-695">
