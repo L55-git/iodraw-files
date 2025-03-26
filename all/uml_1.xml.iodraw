@@ -3354,7 +3354,7 @@
             <mxPoint x="93.94736842105272" y="23313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-708" value="选择筛选条件（“未处理”或“已处理”）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-708" value="选择筛选条件（“未处理”或“已处理”）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-723">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270.5" y="23352" />
@@ -3464,6 +3464,16 @@
             <mxPoint x="434.55" y="23129" as="sourcePoint" />
             <mxPoint x="434.55" y="23159" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-724" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-723">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="93.94736842105272" y="23352" as="sourcePoint" />
+            <mxPoint x="428.0000000000002" y="23352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-723" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
+          <mxGeometry x="88" y="23226" width="10" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
