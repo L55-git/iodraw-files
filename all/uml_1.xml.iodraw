@@ -1955,11 +1955,12 @@
             <mxPoint x="653" y="14326" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-386" value="提示缴费状态已确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-343" target="fpQgEfCaEwrgiyN-PySb-336">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-386" value="提示缴费状态已确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-336">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="281" y="14313" />
             </Array>
+            <mxPoint x="373" y="14315" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-387" value="选择记录并点击“删除”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-336" target="fpQgEfCaEwrgiyN-PySb-349">
