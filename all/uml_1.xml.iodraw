@@ -1526,6 +1526,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-323" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-303" target="fpQgEfCaEwrgiyN-PySb-302">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="321" y="12309" />
               <mxPoint x="268" y="12763" />
             </Array>
           </mxGeometry>
