@@ -2832,8 +2832,8 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-572" value="弹出确认框，确认删除操作" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="391" y="20026" as="sourcePoint" />
-            <mxPoint x="103" y="20023" as="targetPoint" />
+            <mxPoint x="396" y="20025" as="sourcePoint" />
+            <mxPoint x="108" y="20022" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-573" value="确认删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-553">
