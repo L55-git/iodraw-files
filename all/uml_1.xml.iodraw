@@ -2798,7 +2798,7 @@
               <mxPoint x="293" y="19975" />
               <mxPoint x="262" y="20459" />
             </Array>
-            <mxPoint x="102" y="19972" as="targetPoint" />
+            <mxPoint x="100" y="19975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-571" value="选择公告，点击“删除”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-552" target="fpQgEfCaEwrgiyN-PySb-553">
