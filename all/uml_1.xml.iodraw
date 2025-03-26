@@ -3320,7 +3320,7 @@
             <mxPoint x="106" y="23202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-704" value="点击“查看历史维修”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-694" target="fpQgEfCaEwrgiyN-PySb-695">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-704" value="点击“维修管理”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-694" target="fpQgEfCaEwrgiyN-PySb-695">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="271" y="23240" />
@@ -3336,11 +3336,13 @@
             <mxPoint x="659.0000000000002" y="23263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-706" value="返回维修记录信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-696" target="fpQgEfCaEwrgiyN-PySb-695">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-706" value="返回维修记录信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="556" y="23594" />
+              <mxPoint x="556.5" y="23293" />
             </Array>
+            <mxPoint x="659.0000000000002" y="23293.000000000004" as="sourcePoint" />
+            <mxPoint x="428.9473684210525" y="23293.000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-707" value="展示维修记录列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-695" target="fpQgEfCaEwrgiyN-PySb-694">
