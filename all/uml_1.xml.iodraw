@@ -284,7 +284,7 @@
           <mxGeometry x="70" y="1415" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-6" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-3">
-          <mxGeometry x="70" y="300" width="10" height="190" as="geometry" />
+          <mxGeometry x="70" y="320" width="10" height="240" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-27" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="fpQgEfCaEwrgiyN-PySb-3" target="fpQgEfCaEwrgiyN-PySb-6">
           <mxGeometry x="0.148" y="12" relative="1" as="geometry">
