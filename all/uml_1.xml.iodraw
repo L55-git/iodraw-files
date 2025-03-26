@@ -602,17 +602,17 @@
             <mxPoint x="180" y="3630" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-96" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63" target="fpQgEfCaEwrgiyN-PySb-56">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-96" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="3650" />
               <mxPoint x="360" y="3680" />
               <mxPoint x="331" y="4387" />
             </Array>
-            <mxPoint x="220" y="3649.9999999999995" as="targetPoint" />
+            <mxPoint x="180" y="3650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-97" value="点击确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-63">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-97" value="点击确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-467" target="fpQgEfCaEwrgiyN-PySb-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="3670" />
