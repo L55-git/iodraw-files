@@ -2363,13 +2363,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-489" value="展示筛选后的房屋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-480" target="fpQgEfCaEwrgiyN-PySb-479">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="236" y="18532" />
+              <mxPoint x="268" y="18269" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-490" value="点击“新增”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-479" target="fpQgEfCaEwrgiyN-PySb-480">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="254" y="18298" />
               <mxPoint x="233" y="18584" />
             </Array>
           </mxGeometry>
@@ -2377,7 +2378,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-491" value="弹出表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-480" target="fpQgEfCaEwrgiyN-PySb-479">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="236" y="18636" />
+              <mxPoint x="252" y="18320" />
             </Array>
           </mxGeometry>
         </mxCell>
