@@ -2038,7 +2038,7 @@
           <mxGeometry x="342" y="15620" width="150" height="1200" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-399" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-398">
-          <mxGeometry x="70" y="107" width="10" height="156" as="geometry" />
+          <mxGeometry x="70" y="107" width="10" height="53" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-400" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-398">
           <mxGeometry x="70" y="315" width="10" height="156" as="geometry" />
@@ -2088,9 +2088,7 @@
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-411" value="展示反馈信息表格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-399" target="fpQgEfCaEwrgiyN-PySb-543">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="262" y="15847" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="106" y="15883" as="targetPoint" />
           </mxGeometry>
         </mxCell>
