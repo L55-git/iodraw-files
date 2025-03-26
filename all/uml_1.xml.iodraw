@@ -3230,13 +3230,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-686" value="点击“我的水费”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
-          <mxGeometry x="0.0064" relative="1" as="geometry">
-            <mxPoint x="121" y="22475" as="sourcePoint" />
-            <mxPoint x="331" y="22475" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
