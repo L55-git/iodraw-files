@@ -2180,7 +2180,7 @@
           <mxGeometry x="70" y="107" width="10" height="64" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-435" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-433">
-          <mxGeometry x="70" y="315" width="10" height="156" as="geometry" />
+          <mxGeometry x="70" y="196" width="10" height="156" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-436" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-433">
           <mxGeometry x="70" y="523" width="10" height="260" as="geometry" />
@@ -2236,6 +2236,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-448" value="查询 (根据条件)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-435" target="fpQgEfCaEwrgiyN-PySb-440">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="424" y="17063" />
               <mxPoint x="484" y="17207" />
             </Array>
           </mxGeometry>
@@ -2245,12 +2246,6 @@
             <Array as="points">
               <mxPoint x="485" y="17259" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-450" value="显示筛选后的维修报修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-547">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="101" y="17043" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-451" value="选择记录，点击“解决”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-431" target="fpQgEfCaEwrgiyN-PySb-436">
