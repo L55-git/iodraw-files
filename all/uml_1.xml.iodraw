@@ -1694,7 +1694,7 @@
           <mxGeometry x="310" y="13510" width="150" height="2092" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-344" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-343">
-          <mxGeometry x="70" y="95" width="10" height="156" as="geometry" />
+          <mxGeometry x="70" y="107" width="10" height="156" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-345" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-343">
           <mxGeometry x="70" y="315" width="10" height="156" as="geometry" />
@@ -1742,7 +1742,6 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-358" value="查询所有住户的详细电费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-344" target="fpQgEfCaEwrgiyN-PySb-351">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="482" y="13628" />
               <mxPoint x="535" y="13669" />
             </Array>
           </mxGeometry>
@@ -1750,7 +1749,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-359" value="返回电费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-350" target="fpQgEfCaEwrgiyN-PySb-344">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="551" y="13651" />
+              <mxPoint x="536" y="13721" />
             </Array>
           </mxGeometry>
         </mxCell>
