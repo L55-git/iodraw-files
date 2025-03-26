@@ -3428,11 +3428,13 @@
             <mxPoint x="429.4473684210525" y="23575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-716" value="更新维修记录请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-695" target="fpQgEfCaEwrgiyN-PySb-696">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-716" value="更新维修记录请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="553" y="24174" />
+              <mxPoint x="552.75" y="23591" />
             </Array>
+            <mxPoint x="428.0000000000002" y="23591" as="sourcePoint" />
+            <mxPoint x="658.25" y="23591" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-717" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-696" target="fpQgEfCaEwrgiyN-PySb-695">
