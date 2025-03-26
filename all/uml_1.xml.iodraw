@@ -2430,7 +2430,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-498" value="修改信息后点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-479" target="fpQgEfCaEwrgiyN-PySb-480">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="233" y="19030" />
+              <mxPoint x="289" y="18642" />
             </Array>
           </mxGeometry>
         </mxCell>
