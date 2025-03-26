@@ -290,7 +290,7 @@
           <mxGeometry x="650" y="1120" width="150" height="1780" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-10" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-9">
-          <mxGeometry x="70" y="159" width="10" height="42" as="geometry" />
+          <mxGeometry x="70" y="100" width="10" height="42" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-11" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-9">
           <mxGeometry x="70" y="367" width="10" height="32" as="geometry" />
@@ -310,6 +310,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-16" value="点击“查看楼栋信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-1" target="fpQgEfCaEwrgiyN-PySb-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="350" y="1220" />
               <mxPoint x="235" y="1207" />
             </Array>
           </mxGeometry>
@@ -333,6 +334,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-19" value="展示楼栋信息表格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-4" target="fpQgEfCaEwrgiyN-PySb-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="380" y="1280" />
               <mxPoint x="236" y="1363" />
             </Array>
           </mxGeometry>
