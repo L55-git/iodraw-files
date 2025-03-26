@@ -798,6 +798,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-163" value="返回单元当前信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-144" target="fpQgEfCaEwrgiyN-PySb-138">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="390" y="6710" />
               <mxPoint x="469" y="7139" />
             </Array>
           </mxGeometry>
@@ -805,6 +806,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-164" value="展示编辑表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-138" target="fpQgEfCaEwrgiyN-PySb-133">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="310" y="6730" />
               <mxPoint x="228" y="7191" />
             </Array>
           </mxGeometry>
@@ -812,6 +814,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-165" value="修改信息，点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-133" target="fpQgEfCaEwrgiyN-PySb-138">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="260" y="6750" />
               <mxPoint x="225" y="7243" />
             </Array>
           </mxGeometry>
