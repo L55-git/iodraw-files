@@ -3156,17 +3156,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-641" value="查询该业主的水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-638" target="fpQgEfCaEwrgiyN-PySb-639">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-641" value="查询该业主的水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-639">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="461" y="22440" />
             </Array>
+            <mxPoint x="346" y="22440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-642" value="返回水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-639" target="fpQgEfCaEwrgiyN-PySb-638">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="461" y="22492" />
+              <mxPoint x="467" y="22529" />
             </Array>
           </mxGeometry>
         </mxCell>
