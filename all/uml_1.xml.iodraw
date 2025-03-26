@@ -319,7 +319,7 @@
           <mxGeometry x="358" y="2920" width="150" height="1780" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-59" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-58">
-          <mxGeometry x="70" y="107" width="10" height="156" as="geometry" />
+          <mxGeometry x="70" y="107" width="10" height="73" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-60" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-58">
           <mxGeometry x="70" y="315" width="10" height="146" as="geometry" />
@@ -372,6 +372,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-73" value="返回所有楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-64" target="fpQgEfCaEwrgiyN-PySb-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="530" y="3070" />
               <mxPoint x="545" y="3131" />
             </Array>
           </mxGeometry>
@@ -379,6 +380,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-74" value="展示楼栋信息表格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-59" target="fpQgEfCaEwrgiyN-PySb-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="350" y="3090" />
               <mxPoint x="316" y="3183" />
             </Array>
           </mxGeometry>
