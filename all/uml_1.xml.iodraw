@@ -2794,14 +2794,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-575" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-554" target="fpQgEfCaEwrgiyN-PySb-553">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="557" y="20719" />
+              <mxPoint x="541" y="20083" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-576" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553" target="fpQgEfCaEwrgiyN-PySb-552">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="262" y="20771" />
+              <mxPoint x="262" y="20098" />
             </Array>
           </mxGeometry>
         </mxCell>
