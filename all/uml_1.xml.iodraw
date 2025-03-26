@@ -1371,7 +1371,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-301" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-248" target="fpQgEfCaEwrgiyN-PySb-240">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="252" y="11855" />
+              <mxPoint x="260" y="11000" />
             </Array>
           </mxGeometry>
         </mxCell>
