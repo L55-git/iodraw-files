@@ -3036,13 +3036,13 @@
             <mxPoint x="95" y="21474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-620" value="确认删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-620" value="确认删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-594">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="269" y="20055" />
+              <mxPoint x="337" y="21492" />
             </Array>
-            <mxPoint x="114" y="20055" as="sourcePoint" />
-            <mxPoint x="403" y="20055" as="targetPoint" />
+            <mxPoint x="182" y="21492" as="sourcePoint" />
+            <mxPoint x="471" y="21492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
