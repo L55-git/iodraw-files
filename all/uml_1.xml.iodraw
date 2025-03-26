@@ -1700,7 +1700,7 @@
           <mxGeometry x="70" y="107" width="10" height="91" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-345" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-343">
-          <mxGeometry x="70" y="210" width="10" height="156" as="geometry" />
+          <mxGeometry x="70" y="210" width="10" height="79" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-346" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-343">
           <mxGeometry x="70" y="523" width="10" height="342" as="geometry" />
@@ -1798,7 +1798,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-365" value="点击“新增”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-336" target="fpQgEfCaEwrgiyN-PySb-346">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="251" y="14033" />
+              <mxPoint x="246" y="13819" />
             </Array>
           </mxGeometry>
         </mxCell>
