@@ -1625,11 +1625,12 @@
             <mxPoint x="103" y="12525" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-331" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-303">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-331" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-529">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="308" y="12557" />
             </Array>
+            <mxPoint x="407" y="12560" as="sourcePoint" />
             <mxPoint x="105" y="12557" as="targetPoint" />
           </mxGeometry>
         </mxCell>
