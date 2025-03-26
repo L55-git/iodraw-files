@@ -1945,7 +1945,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-385" value="更新成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-350" target="fpQgEfCaEwrgiyN-PySb-348">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="536" y="15133" />
+              <mxPoint x="475" y="14356" />
             </Array>
           </mxGeometry>
         </mxCell>
