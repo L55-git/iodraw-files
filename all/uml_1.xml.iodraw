@@ -2748,7 +2748,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-569" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-554" target="fpQgEfCaEwrgiyN-PySb-553">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="557" y="20407" />
+              <mxPoint x="568" y="19960" />
             </Array>
           </mxGeometry>
         </mxCell>
