@@ -551,14 +551,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-93" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-62">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-93" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-64" target="fpQgEfCaEwrgiyN-PySb-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="3570" />
               <mxPoint x="530" y="3660" />
               <mxPoint x="545" y="4231" />
             </Array>
-            <mxPoint x="630" y="3570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-94" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-58" target="fpQgEfCaEwrgiyN-PySb-56">
