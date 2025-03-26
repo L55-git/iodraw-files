@@ -322,7 +322,7 @@
           <mxGeometry x="70" y="200" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-465" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-56">
-          <mxGeometry x="70" y="307" width="10" height="73" as="geometry" />
+          <mxGeometry x="70" y="307" width="10" height="143" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-58" value="楼栋管理模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="358" y="2920" width="150" height="1780" as="geometry" />
@@ -438,12 +438,12 @@
             <mxPoint x="180" y="3190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-79" value="点击“新增”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.2;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-56" target="fpQgEfCaEwrgiyN-PySb-61">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-79" value="点击“新增”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0.2;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="325.37" y="3240" />
             </Array>
-            <mxPoint x="190" y="3240" as="sourcePoint" />
+            <mxPoint x="180" y="3240" as="sourcePoint" />
             <mxPoint x="420" y="3240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
