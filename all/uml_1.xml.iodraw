@@ -1332,6 +1332,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-292" value="确认退房" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-239" target="fpQgEfCaEwrgiyN-PySb-247">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="236" y="10194" />
               <mxPoint x="200" y="10690" />
             </Array>
           </mxGeometry>
@@ -1339,7 +1340,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-293" value="发送解除绑定请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-247" target="fpQgEfCaEwrgiyN-PySb-255">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="10710" />
+              <mxPoint x="473" y="10210" />
             </Array>
           </mxGeometry>
         </mxCell>
