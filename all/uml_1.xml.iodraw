@@ -1962,6 +1962,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-386" value="提示缴费状态已确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-336">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="314" y="14338" />
               <mxPoint x="281" y="14313" />
             </Array>
             <mxPoint x="373" y="14315" as="sourcePoint" />
