@@ -790,6 +790,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-162" value="获取单元当前信息请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-138" target="fpQgEfCaEwrgiyN-PySb-144">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="390" y="6690" />
               <mxPoint x="468" y="7087" />
             </Array>
           </mxGeometry>
