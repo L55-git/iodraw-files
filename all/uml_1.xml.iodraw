@@ -3233,7 +3233,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-687" value="查询该业主的水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-688">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-687" value="点击“我的电费”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-688">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="336" y="22625" />
