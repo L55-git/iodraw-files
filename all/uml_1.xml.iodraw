@@ -1290,14 +1290,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-286" value="点击“确认”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-238" target="fpQgEfCaEwrgiyN-PySb-246">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="10420" />
+              <mxPoint x="234" y="10058" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-287" value="发送绑定请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-246" target="fpQgEfCaEwrgiyN-PySb-254">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="10460" />
+              <mxPoint x="508" y="10073" />
             </Array>
           </mxGeometry>
         </mxCell>
