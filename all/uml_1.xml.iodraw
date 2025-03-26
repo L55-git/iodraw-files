@@ -1697,7 +1697,7 @@
           <mxGeometry x="310" y="13510" width="150" height="2092" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-344" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-343">
-          <mxGeometry x="70" y="107" width="10" height="64" as="geometry" />
+          <mxGeometry x="70" y="107" width="10" height="91" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-345" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-343">
           <mxGeometry x="70" y="315" width="10" height="156" as="geometry" />
@@ -1759,9 +1759,7 @@
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-360" value="展示电费信息表格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-344">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="379" y="13662" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="100" y="13695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
