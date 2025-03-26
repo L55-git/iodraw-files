@@ -52,7 +52,7 @@
           <mxGeometry x="70" y="430" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-13" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-9">
-          <mxGeometry x="70" y="530" width="10" height="439" as="geometry" />
+          <mxGeometry x="70" y="530" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-14" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-9">
           <mxGeometry x="70" y="1259" width="10" height="-8" as="geometry" />
@@ -274,7 +274,7 @@
               <mxPoint x="570" y="1700" />
               <mxPoint x="465" y="2753" />
             </Array>
-            <mxPoint x="724.5" y="1700" as="sourcePoint" />
+            <mxPoint x="720" y="1700" as="sourcePoint" />
             <mxPoint x="414.5" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
