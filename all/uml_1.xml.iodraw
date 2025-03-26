@@ -1633,11 +1633,12 @@
             <mxPoint x="105" y="12557" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-332" value="确认删除操作" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-302" target="fpQgEfCaEwrgiyN-PySb-303">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-332" value="确认删除操作" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-303">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="265" y="12601" />
             </Array>
+            <mxPoint x="108" y="12601" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-333" value="删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-303" target="fpQgEfCaEwrgiyN-PySb-309">
@@ -1654,11 +1655,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-335" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-303" target="fpQgEfCaEwrgiyN-PySb-302">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-335" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="312" y="12689" />
             </Array>
+            <mxPoint x="409" y="12691" as="sourcePoint" />
+            <mxPoint x="106" y="12689" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-336" value="管理人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
