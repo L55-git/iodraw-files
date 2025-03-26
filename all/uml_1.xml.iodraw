@@ -2988,12 +2988,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-611" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-595" target="fpQgEfCaEwrgiyN-PySb-595">
-          <mxGeometry x="-0.3885" y="416" relative="1" as="geometry">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-611" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0302" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="21762" />
-              <mxPoint x="520" y="21792" />
+              <mxPoint x="524.33" y="21325" />
+              <mxPoint x="524.33" y="21355" />
             </Array>
+            <mxPoint x="472.9966666666665" y="21325" as="sourcePoint" />
+            <mxPoint x="472.9966666666665" y="21355" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
