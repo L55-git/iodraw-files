@@ -286,14 +286,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-6" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-3">
           <mxGeometry x="70" y="320" width="10" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-27" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="fpQgEfCaEwrgiyN-PySb-3" target="fpQgEfCaEwrgiyN-PySb-6">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-27" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="fpQgEfCaEwrgiyN-PySb-3">
           <mxGeometry x="0.148" y="12" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="430" />
-              <mxPoint x="110" y="470" />
+              <mxPoint x="120" y="390" />
+              <mxPoint x="110" y="430" />
             </Array>
-            <mxPoint x="80" y="420" as="sourcePoint" />
-            <mxPoint x="77" y="491.5" as="targetPoint" />
+            <mxPoint x="80" y="380" as="sourcePoint" />
+            <mxPoint x="80" y="430" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -391,6 +391,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-24" value="点击“新增”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="360" y="1450" />
               <mxPoint x="290" y="1460" />
               <mxPoint x="240" y="1440" />
             </Array>
@@ -401,6 +402,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-25" value="弹出表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-6" target="fpQgEfCaEwrgiyN-PySb-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="380" y="1470" />
               <mxPoint x="290" y="1490" />
               <mxPoint x="241" y="1492" />
             </Array>
@@ -411,11 +413,11 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-26" value="填写楼栋信息并点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="1520" />
-              <mxPoint x="240" y="1554" />
+              <mxPoint x="300" y="1490" />
+              <mxPoint x="240" y="1524" />
             </Array>
-            <mxPoint x="80" y="1520" as="sourcePoint" />
-            <mxPoint x="410" y="1520" as="targetPoint" />
+            <mxPoint x="80" y="1490" as="sourcePoint" />
+            <mxPoint x="410" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-28" value="添加新楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-6">
