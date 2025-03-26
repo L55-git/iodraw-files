@@ -2942,27 +2942,30 @@
             <mxPoint x="100" y="21064" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-601" value="选择一条反馈信息，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-594">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-601" value="选择一条反馈信息，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="308" y="21094" />
             </Array>
+            <mxPoint x="101" y="21094" as="sourcePoint" />
             <mxPoint x="456" y="21094" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-602" value="弹出编辑表单，显示当前反馈的详细内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-594">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-602" value="弹出编辑表单，显示当前反馈的详细内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="289" y="21113" />
             </Array>
             <mxPoint x="452" y="21113" as="sourcePoint" />
+            <mxPoint x="103" y="21113" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-603" value="修改反馈内容后点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-594">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-603" value="修改反馈内容后点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="299" y="21131" />
             </Array>
+            <mxPoint x="105" y="21131" as="sourcePoint" />
             <mxPoint x="456" y="21131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -3103,6 +3106,9 @@
             <mxPoint x="441" y="21578.29" as="sourcePoint" />
             <mxPoint x="151" y="21578.29" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-632" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
+          <mxGeometry x="109" y="21010" width="10" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
