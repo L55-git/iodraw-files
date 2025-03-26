@@ -3255,13 +3255,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-691" value="查询该业主的水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-691" value="查询该业主的水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-690">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="586" y="22498" />
+              <mxPoint x="800" y="22646" />
             </Array>
-            <mxPoint x="350" y="22498" as="sourcePoint" />
-            <mxPoint x="816" y="22498" as="targetPoint" />
+            <mxPoint x="589" y="22646" as="sourcePoint" />
+            <mxPoint x="1055" y="22646" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
