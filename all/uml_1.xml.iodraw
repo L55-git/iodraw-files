@@ -750,6 +750,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-157" value="填写完毕，点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-133" target="fpQgEfCaEwrgiyN-PySb-137">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="250" y="6570" />
               <mxPoint x="225" y="6827" />
             </Array>
           </mxGeometry>
@@ -757,6 +758,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-158" value="添加请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-137" target="fpQgEfCaEwrgiyN-PySb-143">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="380" y="6590" />
               <mxPoint x="468" y="6879" />
             </Array>
           </mxGeometry>
@@ -764,6 +766,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-159" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-143" target="fpQgEfCaEwrgiyN-PySb-137">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="410" y="6610" />
               <mxPoint x="469" y="6931" />
             </Array>
           </mxGeometry>
