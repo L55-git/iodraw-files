@@ -664,7 +664,7 @@
           <mxGeometry x="70" y="570" width="10" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-146" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-140">
-          <mxGeometry x="70" y="1407" width="10" height="52" as="geometry" />
+          <mxGeometry x="70" y="740" width="10" height="52" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-147" value="点击“查看单元信息”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-133" target="fpQgEfCaEwrgiyN-PySb-135">
           <mxGeometry relative="1" as="geometry">
