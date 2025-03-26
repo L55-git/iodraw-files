@@ -1081,6 +1081,395 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-233" value="管理人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="9400" width="150" height="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-234" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
+          <mxGeometry x="70" width="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-235" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
+          <mxGeometry x="70" y="263" width="10" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-236" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
+          <mxGeometry x="70" y="471" width="10" height="456" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-237" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
+          <mxGeometry x="70" y="917" width="10" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-238" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
+          <mxGeometry x="70" y="1467" width="10" height="374" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-239" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
+          <mxGeometry x="70" y="1831" width="10" height="322" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-240" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
+          <mxGeometry x="70" y="2143" width="10" height="322" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-241" value="业主管理模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="310" y="9400" width="150" height="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-242" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
+          <mxGeometry x="70" y="107" width="10" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-243" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
+          <mxGeometry x="70" y="315" width="10" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-244" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
+          <mxGeometry x="70" y="523" width="10" height="394" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-245" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
+          <mxGeometry x="70" y="969" width="10" height="498" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-246" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
+          <mxGeometry x="70" y="1519" width="10" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-247" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
+          <mxGeometry x="70" y="1883" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-248" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
+          <mxGeometry x="70" y="2195" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-249" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="541" y="9400" width="150" height="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-250" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
+          <mxGeometry x="70" y="159" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-251" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
+          <mxGeometry x="70" y="367" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-252" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
+          <mxGeometry x="70" y="813" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-253" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
+          <mxGeometry x="70" y="1363" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-254" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
+          <mxGeometry x="70" y="1727" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-255" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
+          <mxGeometry x="70" y="2039" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-256" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
+          <mxGeometry x="70" y="2351" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-257" value="点击“查看业主信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-233" target="fpQgEfCaEwrgiyN-PySb-242">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="9507" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-258" value="查询所有业主详细信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-242" target="fpQgEfCaEwrgiyN-PySb-250">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="9559" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-259" value="返回业主信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-242">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="9611" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-260" value="展示业主信息（表格形式）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-242" target="fpQgEfCaEwrgiyN-PySb-235">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="9663" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-261" value="输入筛选条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-235" target="fpQgEfCaEwrgiyN-PySb-243">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="9715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-262" value="发送筛选查询请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-243" target="fpQgEfCaEwrgiyN-PySb-251">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="9767" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-263" value="返回筛选结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-243">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="9819" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-264" value="展示筛选后的业主信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-243" target="fpQgEfCaEwrgiyN-PySb-235">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="9871" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-265" value="点击“新增”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-236" target="fpQgEfCaEwrgiyN-PySb-244">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="9923" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-266" value="弹出表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-244" target="fpQgEfCaEwrgiyN-PySb-236">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="9975" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-267" value="填写业主信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-236" target="fpQgEfCaEwrgiyN-PySb-244">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="10027" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-268" value="点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-236" target="fpQgEfCaEwrgiyN-PySb-244">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="10079" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-269" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-244" target="fpQgEfCaEwrgiyN-PySb-244">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="10131" />
+              <mxPoint x="440" y="10161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-270" value="发送添加请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-244" target="fpQgEfCaEwrgiyN-PySb-252">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="10213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-271" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-244">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="10265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-272" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-244" target="fpQgEfCaEwrgiyN-PySb-236">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="10317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-273" value="选择业主，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-237" target="fpQgEfCaEwrgiyN-PySb-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="10369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-274" value="获取业主当前信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-249">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="10421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-275" value="返回业主当前信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="514" y="10473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-276" value="展示编辑表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-237">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="10525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-277" value="修改信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-237" target="fpQgEfCaEwrgiyN-PySb-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="10577" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-278" value="点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-237" target="fpQgEfCaEwrgiyN-PySb-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="10629" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-279" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="10681" />
+              <mxPoint x="440" y="10711" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-280" value="发送更新请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-253">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="10763" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-281" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="10815" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-282" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-237">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="10867" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-283" value="选择业主，点击“绑定房屋”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-238" target="fpQgEfCaEwrgiyN-PySb-246">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="10919" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-284" value="弹出选择房屋界面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-246" target="fpQgEfCaEwrgiyN-PySb-238">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="10971" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-285" value="选择房屋" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-238" target="fpQgEfCaEwrgiyN-PySb-246">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="11023" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-286" value="点击“确认”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-238" target="fpQgEfCaEwrgiyN-PySb-246">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="11075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-287" value="发送绑定请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-246" target="fpQgEfCaEwrgiyN-PySb-254">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="11127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-288" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-246">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="11179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-289" value="提示绑定成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-246" target="fpQgEfCaEwrgiyN-PySb-238">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="11231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-290" value="选择业主，点击“退房”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-239" target="fpQgEfCaEwrgiyN-PySb-247">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="11283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-291" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-247" target="fpQgEfCaEwrgiyN-PySb-239">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="11335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-292" value="确认退房" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-239" target="fpQgEfCaEwrgiyN-PySb-247">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="11387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-293" value="发送解除绑定请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-247" target="fpQgEfCaEwrgiyN-PySb-255">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="11439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-294" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-247">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="11491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-295" value="提示退房成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-247" target="fpQgEfCaEwrgiyN-PySb-239">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="11543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-296" value="选择业主，点击“删除”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-240" target="fpQgEfCaEwrgiyN-PySb-248">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="11595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-297" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-248" target="fpQgEfCaEwrgiyN-PySb-240">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="11647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-298" value="确认删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-240" target="fpQgEfCaEwrgiyN-PySb-248">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="11699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-299" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-248" target="fpQgEfCaEwrgiyN-PySb-256">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="511" y="11751" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-300" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-248">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="512" y="11803" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-301" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-248" target="fpQgEfCaEwrgiyN-PySb-240">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="11855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
