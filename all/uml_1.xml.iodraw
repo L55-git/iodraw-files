@@ -398,14 +398,14 @@
             <mxPoint x="400" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-25" value="弹出表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-6">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-25" value="弹出表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-6" target="fpQgEfCaEwrgiyN-PySb-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="1480" />
               <mxPoint x="241" y="1492" />
             </Array>
             <mxPoint x="400" y="1492" as="sourcePoint" />
-            <mxPoint x="79.5" y="1492" as="targetPoint" />
+            <mxPoint x="90" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-26" value="填写楼栋信息并点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
@@ -414,7 +414,7 @@
               <mxPoint x="300" y="1500" />
               <mxPoint x="240" y="1544" />
             </Array>
-            <mxPoint x="79.5" y="1544" as="sourcePoint" />
+            <mxPoint x="80" y="1500" as="sourcePoint" />
             <mxPoint x="410" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
