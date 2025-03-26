@@ -3063,6 +3063,15 @@
             <mxPoint x="498" y="21538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-623" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="309" y="21578.29" />
+            </Array>
+            <mxPoint x="441" y="21578.29" as="sourcePoint" />
+            <mxPoint x="151" y="21578.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
