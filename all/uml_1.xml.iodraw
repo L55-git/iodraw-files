@@ -2780,14 +2780,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-573" value="确认删除" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-552" target="fpQgEfCaEwrgiyN-PySb-553">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="259" y="20615" />
+              <mxPoint x="259" y="20045" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-574" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553" target="fpQgEfCaEwrgiyN-PySb-554">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="554" y="20667" />
+              <mxPoint x="504" y="20060" />
             </Array>
           </mxGeometry>
         </mxCell>
