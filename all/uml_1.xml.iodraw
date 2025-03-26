@@ -2207,6 +2207,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-444" value="查询所有维修报修" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-434" target="fpQgEfCaEwrgiyN-PySb-439">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="461" y="16962" />
               <mxPoint x="484" y="16999" />
             </Array>
           </mxGeometry>
