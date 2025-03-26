@@ -418,9 +418,10 @@
             <mxPoint x="410" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-28" value="添加新楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-6" target="fpQgEfCaEwrgiyN-PySb-12">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-28" value="添加新楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-6" target="fpQgEfCaEwrgiyN-PySb-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="540" y="1610" />
               <mxPoint x="464" y="1861" />
             </Array>
           </mxGeometry>
