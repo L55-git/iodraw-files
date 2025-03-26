@@ -574,7 +574,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-95" value="选择楼栋，点击“删除”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-56" target="fpQgEfCaEwrgiyN-PySb-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="3630" />
+              <mxPoint x="350" y="3630" />
               <mxPoint x="330" y="4335" />
             </Array>
           </mxGeometry>
@@ -582,6 +582,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-96" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63" target="fpQgEfCaEwrgiyN-PySb-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="360" y="3680" />
               <mxPoint x="331" y="4387" />
             </Array>
           </mxGeometry>
