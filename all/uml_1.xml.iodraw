@@ -1945,14 +1945,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-385" value="更新成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-350" target="fpQgEfCaEwrgiyN-PySb-348">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="475" y="14356" />
+              <mxPoint x="385" y="14338" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-386" value="提示缴费状态已确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-343" target="fpQgEfCaEwrgiyN-PySb-336">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="259" y="15185" />
+              <mxPoint x="275" y="14378" />
             </Array>
           </mxGeometry>
         </mxCell>
