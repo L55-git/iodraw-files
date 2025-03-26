@@ -980,7 +980,7 @@
           <mxGeometry x="310" y="9400" width="150" height="2560" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-242" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
-          <mxGeometry x="70" y="107" width="10" height="63" as="geometry" />
+          <mxGeometry x="70" y="99.5" width="10" height="63" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-243" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
           <mxGeometry x="70" y="315" width="10" height="156" as="geometry" />
@@ -1047,12 +1047,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-260" value="展示业主信息（表格形式）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-242" target="fpQgEfCaEwrgiyN-PySb-233">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-260" value="展示业主信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-242" target="fpQgEfCaEwrgiyN-PySb-233">
+          <mxGeometry x="-0.0034" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="9560" />
               <mxPoint x="252" y="9663" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-261" value="输入筛选条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-235" target="fpQgEfCaEwrgiyN-PySb-243">
