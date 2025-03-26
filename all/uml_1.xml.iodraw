@@ -450,20 +450,20 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-82" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="488" y="3320" />
-              <mxPoint x="488" y="3350" />
+              <mxPoint x="488" y="3310" />
+              <mxPoint x="488" y="3340" />
             </Array>
-            <mxPoint x="438" y="3320" as="sourcePoint" />
-            <mxPoint x="438" y="3350" as="targetPoint" />
+            <mxPoint x="438" y="3310" as="sourcePoint" />
+            <mxPoint x="438" y="3340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-83" value="添加新楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="544" y="3370" />
+              <mxPoint x="544" y="3350" />
             </Array>
-            <mxPoint x="438" y="3370" as="sourcePoint" />
-            <mxPoint x="628" y="3370" as="targetPoint" />
+            <mxPoint x="438" y="3350" as="sourcePoint" />
+            <mxPoint x="628" y="3350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-84" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
