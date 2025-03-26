@@ -1572,13 +1572,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-329" value="提示缴费状态已确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-303" target="fpQgEfCaEwrgiyN-PySb-302">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="268" y="13075" />
+              <mxPoint x="321" y="12479" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-330" value="选择要删除的水费记录，点击“删除”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-302" target="fpQgEfCaEwrgiyN-PySb-303">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="311" y="12525" />
               <mxPoint x="265" y="13127" />
             </Array>
           </mxGeometry>
@@ -1586,7 +1587,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-331" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-303" target="fpQgEfCaEwrgiyN-PySb-302">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="268" y="13179" />
+              <mxPoint x="301" y="12572" />
             </Array>
           </mxGeometry>
         </mxCell>
