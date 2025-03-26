@@ -313,7 +313,7 @@
           <mxGeometry x="100" y="2920" width="150" height="1780" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-57" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-56">
-          <mxGeometry x="105" y="750" width="10" height="80" as="geometry" />
+          <mxGeometry x="110" y="720" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-58" value="楼栋管理模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="358" y="2920" width="150" height="1780" as="geometry" />
@@ -591,6 +591,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-97" value="点击确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-57" target="fpQgEfCaEwrgiyN-PySb-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="370" y="3670" />
               <mxPoint x="330" y="3730" />
               <mxPoint x="330" y="4439" />
             </Array>
@@ -599,13 +600,15 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-98" value="删除楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63" target="fpQgEfCaEwrgiyN-PySb-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="3770" />
+              <mxPoint x="470" y="3690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-99" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-64" target="fpQgEfCaEwrgiyN-PySb-58">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="490" y="3720" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-100" value="提示删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63" target="fpQgEfCaEwrgiyN-PySb-56">
