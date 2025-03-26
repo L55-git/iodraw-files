@@ -2261,6 +2261,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-452" value="确认框 (确认已解决?)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-436" target="fpQgEfCaEwrgiyN-PySb-431">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="248" y="17176" />
               <mxPoint x="238" y="17415" />
             </Array>
           </mxGeometry>
@@ -2268,7 +2269,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-453" value="确认" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-431" target="fpQgEfCaEwrgiyN-PySb-436">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="235" y="17467" />
+              <mxPoint x="235" y="17200" />
             </Array>
           </mxGeometry>
         </mxCell>
