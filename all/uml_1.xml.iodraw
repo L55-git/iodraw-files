@@ -3381,11 +3381,13 @@
             <mxPoint x="428.9473684210525" y="23408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-711" value="展示筛选后的维修记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-695" target="fpQgEfCaEwrgiyN-PySb-694">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-711" value="展示筛选后的维修记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="274" y="23854" />
+              <mxPoint x="273.5" y="23431" />
             </Array>
+            <mxPoint x="428.0000000000002" y="23431.000000000004" as="sourcePoint" />
+            <mxPoint x="93.94736842105272" y="23431.000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-712" value="选择记录并点击“编辑”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-694" target="fpQgEfCaEwrgiyN-PySb-695">
