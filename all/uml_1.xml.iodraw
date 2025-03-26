@@ -965,7 +965,7 @@
           <mxGeometry x="70" y="238" width="10" height="154" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-237" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Verdana;" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
-          <mxGeometry x="70" y="580" width="10" height="290" as="geometry" />
+          <mxGeometry x="68" y="404" width="10" height="290" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-238" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Verdana;" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
           <mxGeometry x="70" y="900" width="10" height="280" as="geometry" />
@@ -992,7 +992,7 @@
           <mxGeometry x="70" y="234" width="10" height="161" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-245" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Verdana;" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
-          <mxGeometry x="70" y="408" width="10" height="290" as="geometry" />
+          <mxGeometry x="70" y="408" width="10" height="166" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-246" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Verdana;" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-241">
           <mxGeometry x="70" y="900" width="10" height="270" as="geometry" />
@@ -1255,12 +1255,14 @@
             <mxPoint x="609" y="9953" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-282" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-237">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-282" value="提示更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="9965" />
-              <mxPoint x="252" y="10867" />
+              <mxPoint x="301" y="9958" />
+              <mxPoint x="253" y="10860" />
             </Array>
+            <mxPoint x="381" y="9958" as="sourcePoint" />
+            <mxPoint x="96" y="9973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-283" value="选择业主，点击“绑定房屋”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=Verdana;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-238" target="fpQgEfCaEwrgiyN-PySb-246">
