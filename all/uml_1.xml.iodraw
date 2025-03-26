@@ -343,7 +343,7 @@
           <mxGeometry x="70" y="230" width="10" height="32" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-67" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-64">
-          <mxGeometry x="70" y="420" width="10" height="30" as="geometry" />
+          <mxGeometry x="70" y="400" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-68" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-64">
           <mxGeometry x="70" y="969" width="10" height="2" as="geometry" />
@@ -460,24 +460,25 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-83" value="添加新楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="544" y="3350" />
+              <mxPoint x="544" y="3330" />
             </Array>
-            <mxPoint x="438" y="3350" as="sourcePoint" />
-            <mxPoint x="628" y="3350" as="targetPoint" />
+            <mxPoint x="438" y="3330" as="sourcePoint" />
+            <mxPoint x="628" y="3330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-84" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="545" y="3370" />
+              <mxPoint x="545" y="3350" />
             </Array>
-            <mxPoint x="632.5" y="3370" as="sourcePoint" />
-            <mxPoint x="438" y="3370" as="targetPoint" />
+            <mxPoint x="632.5" y="3350" as="sourcePoint" />
+            <mxPoint x="438" y="3350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-85" value="提示添加成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-61" target="fpQgEfCaEwrgiyN-PySb-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="300" y="3360" />
               <mxPoint x="370" y="3380" />
               <mxPoint x="323" y="3400" />
             </Array>
