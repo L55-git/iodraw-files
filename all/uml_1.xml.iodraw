@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1412" dy="-381" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="974" dy="-604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2353,11 +2353,12 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-511" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-481">
           <mxGeometry x="68" y="501" width="10" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-482" value="点击“查看房屋信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-479" target="fpQgEfCaEwrgiyN-PySb-480">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-482" value="点击“查看房屋信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-480">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="235" y="18163" />
             </Array>
+            <mxPoint x="95" y="18163" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-483" value="查询所有房屋详细信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-480" target="fpQgEfCaEwrgiyN-PySb-481">
@@ -2515,7 +2516,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-504" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-504" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-521">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="478.5" y="18569" />
@@ -2538,8 +2539,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-522" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-521">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="354" y="18569" as="sourcePoint" />
+            <mxPoint x="585" y="18569" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-521" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
-          <mxGeometry x="150" y="18279" width="10" height="57" as="geometry" />
+          <mxGeometry x="347" y="18532" width="10" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
