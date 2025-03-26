@@ -348,7 +348,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-21" value="查询筛选楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
-          <mxGeometry y="10" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="1360" />
               <mxPoint x="464" y="1387" />
@@ -372,7 +372,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-23" value="展示筛选后的楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-3" target="fpQgEfCaEwrgiyN-PySb-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="238" y="1571" />
+              <mxPoint x="250" y="1390" />
             </Array>
           </mxGeometry>
         </mxCell>
