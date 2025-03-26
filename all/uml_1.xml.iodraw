@@ -269,7 +269,7 @@
           <mxGeometry x="105" y="1467" width="10" height="148" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-3" value="楼栋管理模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=40;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1130" width="150" height="1780" as="geometry" />
+          <mxGeometry x="340" y="1120" width="150" height="1780" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-4" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-3">
           <mxGeometry x="70" y="80" width="10" height="100" as="geometry" />
@@ -278,7 +278,7 @@
           <mxGeometry x="70" y="210" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-7" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-3">
-          <mxGeometry x="110" y="930" width="10" height="406" as="geometry" />
+          <mxGeometry x="70" y="917" width="10" height="406" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-8" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-3">
           <mxGeometry x="70" y="1415" width="10" height="200" as="geometry" />
@@ -287,12 +287,10 @@
           <mxGeometry x="60" y="490" width="10" height="322" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-27" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="fpQgEfCaEwrgiyN-PySb-3">
-          <mxGeometry x="0.1518" y="2" relative="1" as="geometry">
+          <mxGeometry x="0.148" y="12" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="620" />
-              <mxPoint x="100" y="630" />
-              <mxPoint x="110" y="630" />
-              <mxPoint x="110" y="660" />
+              <mxPoint x="130" y="600" />
+              <mxPoint x="127" y="681.5" />
             </Array>
             <mxPoint x="70" y="610" as="sourcePoint" />
             <mxPoint x="77" y="681.5" as="targetPoint" />
@@ -468,12 +466,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-36" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-7" target="fpQgEfCaEwrgiyN-PySb-7">
-          <mxGeometry x="-0.3617" y="-47" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="408" y="2277" />
               <mxPoint x="408" y="2307" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-37" value="更新楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-7" target="fpQgEfCaEwrgiyN-PySb-9">
