@@ -976,6 +976,9 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-240" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
           <mxGeometry x="70" y="2143" width="10" height="322" as="geometry" />
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-473" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-233">
+          <mxGeometry x="70" y="90" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-241" value="业主管理模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="310" y="9400" width="150" height="2560" as="geometry" />
         </mxCell>
@@ -1024,11 +1027,12 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-256" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-249">
           <mxGeometry x="70" y="2351" width="10" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-257" value="点击“查看业主信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-233" target="fpQgEfCaEwrgiyN-PySb-242">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-257" value="点击“查看业主信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-242">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="251" y="9507" />
             </Array>
+            <mxPoint x="100" y="9507" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-258" value="查询所有业主详细信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-242" target="fpQgEfCaEwrgiyN-PySb-250">
@@ -2242,9 +2246,6 @@
               <mxPoint x="238" y="17935" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-473" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
-          <mxGeometry x="100" y="9600" width="10" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
