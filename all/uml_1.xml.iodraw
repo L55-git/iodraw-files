@@ -3585,6 +3585,7 @@
             <Array as="points">
               <mxPoint x="269" y="24927" />
             </Array>
+            <mxPoint x="402" y="24927" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
