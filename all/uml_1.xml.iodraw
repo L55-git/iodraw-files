@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1090" dy="-475" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="-343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3424,7 +3424,7 @@
               <mxPoint x="270.5" y="23469" />
             </Array>
             <mxPoint x="107" y="23469" as="sourcePoint" />
-            <mxPoint x="428.0000000000002" y="23469" as="targetPoint" />
+            <mxPoint x="415" y="23469" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-713" value="获取维修记录信息，展示在编辑表单" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
@@ -3443,7 +3443,7 @@
               <mxPoint x="274.55" y="23535" />
             </Array>
             <mxPoint x="97.99736842105271" y="23535" as="sourcePoint" />
-            <mxPoint x="432.05000000000024" y="23535" as="targetPoint" />
+            <mxPoint x="416" y="23535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-715" value="验证修改后的信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
