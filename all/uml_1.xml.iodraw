@@ -2741,7 +2741,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-568" value="发送更新请求，验证信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-553" target="fpQgEfCaEwrgiyN-PySb-554">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="554" y="20355" />
+              <mxPoint x="576" y="19943" />
             </Array>
           </mxGeometry>
         </mxCell>
