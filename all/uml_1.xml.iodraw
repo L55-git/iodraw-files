@@ -1127,14 +1127,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-269" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.2308" y="-81" relative="1" as="geometry">
+          <mxGeometry x="0.0769" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="9810" />
               <mxPoint x="440" y="9840" />
             </Array>
             <mxPoint x="390" y="9810" as="sourcePoint" />
             <mxPoint x="390" y="9840" as="targetPoint" />
-            <mxPoint x="1" y="-162" as="offset" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-270" value="发送添加请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-244" target="fpQgEfCaEwrgiyN-PySb-252">
