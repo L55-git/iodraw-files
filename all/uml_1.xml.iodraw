@@ -582,6 +582,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-96" value="弹出确认框" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-63" target="fpQgEfCaEwrgiyN-PySb-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="380" y="3650" />
               <mxPoint x="360" y="3680" />
               <mxPoint x="331" y="4387" />
             </Array>
