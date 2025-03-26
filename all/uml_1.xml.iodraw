@@ -2963,7 +2963,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-607" value="提示业主更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-595" target="fpQgEfCaEwrgiyN-PySb-594">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="294" y="21554" />
+              <mxPoint x="319" y="21229" />
             </Array>
           </mxGeometry>
         </mxCell>
