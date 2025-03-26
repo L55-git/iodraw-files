@@ -447,12 +447,14 @@
             <mxPoint x="433.37" y="3299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-82" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-61" target="fpQgEfCaEwrgiyN-PySb-61">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-82" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="488" y="3599" />
-              <mxPoint x="488" y="3629" />
+              <mxPoint x="488" y="3320" />
+              <mxPoint x="488" y="3350" />
             </Array>
+            <mxPoint x="438" y="3320" as="sourcePoint" />
+            <mxPoint x="438" y="3350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-83" value="添加新楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-61" target="fpQgEfCaEwrgiyN-PySb-67">
