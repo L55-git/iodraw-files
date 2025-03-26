@@ -3020,7 +3020,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-615" value="点击“我的反馈”页面中“历史反馈”选项" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-594" target="fpQgEfCaEwrgiyN-PySb-595">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-615" value="点击“删除”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-594" target="fpQgEfCaEwrgiyN-PySb-595">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="298" y="21455" />
@@ -3044,8 +3044,17 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-618" value="将历史反馈信息以列表形式展示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-595" target="fpQgEfCaEwrgiyN-PySb-594">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="294" y="22156" />
+              <mxPoint x="306" y="21525" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-619" value="弹出表单，供业主填写反馈标题和详细内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="21297" />
+            </Array>
+            <mxPoint x="479" y="21297" as="sourcePoint" />
+            <mxPoint x="104" y="21297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
