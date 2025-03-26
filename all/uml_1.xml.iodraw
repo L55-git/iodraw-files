@@ -702,6 +702,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-151" value="输入筛选条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-133" target="fpQgEfCaEwrgiyN-PySb-136">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="260" y="6410" />
               <mxPoint x="227" y="6515" />
             </Array>
           </mxGeometry>
