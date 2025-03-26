@@ -3162,18 +3162,22 @@
             <mxPoint x="1392.5" y="22438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-642" value="返回水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-639" target="fpQgEfCaEwrgiyN-PySb-638">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-642" value="返回水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="467" y="22529" />
+              <mxPoint x="1098.75" y="22529" />
             </Array>
+            <mxPoint x="1445.25" y="22529" as="sourcePoint" />
+            <mxPoint x="966" y="22529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-643" value="展示水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-638" target="fpQgEfCaEwrgiyN-PySb-637">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-643" value="展示水费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="225" y="22544" />
+              <mxPoint x="1272.75" y="22647.75" />
             </Array>
+            <mxPoint x="1382.2499999999998" y="22647.75" as="sourcePoint" />
+            <mxPoint x="1142" y="22647.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-644" value="&quot;我的电费模块&quot;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
@@ -3184,6 +3188,9 @@
             <mxPoint x="770" y="22575" as="sourcePoint" />
             <mxPoint x="326" y="22465" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-651" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
+          <mxGeometry x="340" y="22442" width="10" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
