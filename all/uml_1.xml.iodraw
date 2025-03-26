@@ -1163,6 +1163,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-273" value="选择业主，点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-237" target="fpQgEfCaEwrgiyN-PySb-245">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="300" y="9990" />
               <mxPoint x="251" y="10369" />
             </Array>
           </mxGeometry>
