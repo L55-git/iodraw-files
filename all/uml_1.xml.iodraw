@@ -1170,13 +1170,14 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-274" value="获取业主当前信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-245" target="fpQgEfCaEwrgiyN-PySb-249">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="511" y="10421" />
+              <mxPoint x="510" y="10020" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-275" value="返回业主当前信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-249" target="fpQgEfCaEwrgiyN-PySb-245">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="500" y="10050" />
               <mxPoint x="514" y="10473" />
             </Array>
           </mxGeometry>
