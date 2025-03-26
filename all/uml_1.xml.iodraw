@@ -522,6 +522,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-90" value="修改信息并点击“保存”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-56" target="fpQgEfCaEwrgiyN-PySb-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="390" y="3470" />
               <mxPoint x="325" y="3520" />
               <mxPoint x="325" y="4045" />
             </Array>
@@ -530,11 +531,11 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-91" value="验证信息" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="3560" />
-              <mxPoint x="490" y="3590" />
+              <mxPoint x="490" y="3480" />
+              <mxPoint x="490" y="3510" />
             </Array>
-            <mxPoint x="440" y="3560" as="sourcePoint" />
-            <mxPoint x="440" y="3590" as="targetPoint" />
+            <mxPoint x="440" y="3480" as="sourcePoint" />
+            <mxPoint x="440" y="3510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-92" value="更新楼栋信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-62" target="fpQgEfCaEwrgiyN-PySb-64">
