@@ -354,6 +354,9 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-70" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-64">
           <mxGeometry x="70" y="1571" width="10" height="-28" as="geometry" />
         </mxCell>
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-103" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-64">
+          <mxGeometry x="70" y="600" width="10" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-71" value="点击“查看楼栋信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-56" target="fpQgEfCaEwrgiyN-PySb-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -548,13 +551,13 @@
             <mxPoint x="632.5000000000002" y="3530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-93" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-93" value="返回成功消息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;exitX=0.2;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-103">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="532" y="3550" />
               <mxPoint x="547" y="4121" />
             </Array>
-            <mxPoint x="634.5000000000002" y="3550" as="sourcePoint" />
+            <mxPoint x="620" y="3550" as="sourcePoint" />
             <mxPoint x="440" y="3550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -609,9 +612,6 @@
               <mxPoint x="333" y="4595" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-103" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
-          <mxGeometry x="638" y="3420" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
