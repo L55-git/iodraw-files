@@ -1852,6 +1852,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-372" value="选择记录并点击“编辑”按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-336" target="fpQgEfCaEwrgiyN-PySb-347">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="340" y="14001" />
               <mxPoint x="253" y="14427" />
             </Array>
           </mxGeometry>
@@ -1859,7 +1860,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-373" value="获取当前信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-347" target="fpQgEfCaEwrgiyN-PySb-350">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="535" y="14479" />
+              <mxPoint x="483" y="14020" />
             </Array>
           </mxGeometry>
         </mxCell>
