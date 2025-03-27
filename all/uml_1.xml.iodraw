@@ -2056,7 +2056,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-406" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-403">
           <mxGeometry x="70" y="330" width="10" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-408" value="点击“查看反馈信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-399">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-408" value="点击“反馈列表”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-399">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="267" y="15727" />
