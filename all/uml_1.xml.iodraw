@@ -1755,7 +1755,7 @@
             <mxPoint x="655" y="13655" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-360" value="展示电费信息表格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-344">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-360" value="展示电费信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-344">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="100" y="13695" as="targetPoint" />
