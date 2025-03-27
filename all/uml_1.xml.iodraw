@@ -732,13 +732,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-150" value="以表格形式展示单元信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-135">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0021" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="6350" />
               <mxPoint x="210" y="6380" />
               <mxPoint x="228" y="6463" />
             </Array>
             <mxPoint x="100" y="6350" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-151" value="输入筛选条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="fpQgEfCaEwrgiyN-PySb-136">
