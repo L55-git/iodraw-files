@@ -2352,7 +2352,7 @@
         <mxCell id="fpQgEfCaEwrgiyN-PySb-511" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="fpQgEfCaEwrgiyN-PySb-481">
           <mxGeometry x="68" y="501" width="10" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-482" value="点击“查看房屋信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-482" value="点击“房屋列表“" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.0021" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="235" y="18163" />
