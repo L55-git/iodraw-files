@@ -2218,7 +2218,7 @@
             <mxPoint x="366" y="16982" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpQgEfCaEwrgiyN-PySb-446" value="显示维修报修信息 (表格)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-434" target="fpQgEfCaEwrgiyN-PySb-430">
+        <mxCell id="fpQgEfCaEwrgiyN-PySb-446" value="显示维修信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="fpQgEfCaEwrgiyN-PySb-434" target="fpQgEfCaEwrgiyN-PySb-430">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="232" y="16991" />
