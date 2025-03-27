@@ -2353,12 +2353,13 @@
           <mxGeometry x="68" y="501" width="10" height="42" as="geometry" />
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-482" value="点击“查看房屋信息”功能" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0021" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="235" y="18163" />
             </Array>
             <mxPoint x="101" y="18163" as="sourcePoint" />
             <mxPoint x="344" y="18163" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpQgEfCaEwrgiyN-PySb-483" value="查询所有房屋详细信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
